@@ -1,0 +1,50 @@
+name: Release (Windows eqlogui)
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-windows-eqlogui:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.22.x'
+          cache: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: cmd/eqlogui/frontend/package-lock.json
+
+      - name: Install Wails CLI
+        run: go install github.com/wailsapp/wails/v2/cmd/wails@latest
+
+      - name: Install frontend deps
+        working-directory: cmd/eqlogui/frontend
+        run: npm ci
+
+      - name: Wails build (Windows)
+        working-directory: cmd/eqlogui
+        run: wails build
+
+      - name: Package artifact
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force dist | Out-Null
+          # Wails outputs into cmd/eqlogui/build/bin by default
+          Copy-Item cmd/eqlogui/build/bin/* dist/ -Recurse -Force
+          Compress-Archive -Path dist/* -DestinationPath eqlogui-windows.zip -Force
+
+      - name: Create GitHub Release and upload artifact
+        uses: softprops/action-gh-release@v2
+        with:
+          files: eqlogui-windows.zip
