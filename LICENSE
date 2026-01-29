@@ -1,23 +1,38 @@
 Copyright (c) 2026 github.com/ZehenForever
+All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use,
-copy, modify, merge, publish, and distribute the Software, subject to the
-following conditions:
+copy, modify, and distribute the Software for NON-COMMERCIAL purposes only,
+subject to the following conditions:
 
 1. Non-Commercial Use Only.
-   The Software may not be used, directly or indirectly, for any commercial
-   purpose without an explicit commercial license from the copyright holder.
+   The Software may not be used for any commercial purpose without an explicit
+   commercial license from the copyright holder.
 
    Commercial purposes include, but are not limited to:
    - Selling, licensing, or sublicensing the Software
-   - Providing the Software as part of a paid service or product
-   - Using the Software to provide consulting, managed services, or SaaS
-   - Use by any entity primarily engaged in commercial activity
+   - Providing the Software as part of a paid product or service
+   - Hosting the Software as a service (SaaS, bots, analytics platforms, etc.)
+   - Monetizing gameplay, streams, or analytics generated using the Software
+   - OEM, white-label, MSP, or resale use
+   - Use by a business or organization in support of commercial activities
 
 2. Attribution.
-   The above copyright notice and this permission notice shall be included in
-   all copies or substantial portions of the Software.
+   The above copyright notice and this permission notice must be included in all
+   copies or substantial portions of the Software.
 
-3. No Warranty.
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+3. No Trademark Rights.
+   This license does not grant permission to use any name, logo, or
+   associated branding, except for truthful attribution.
+
+4. No Warranty.
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+5. Limitation of Liability.
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+   ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
