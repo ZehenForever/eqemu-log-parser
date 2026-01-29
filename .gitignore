@@ -1,3 +1,14 @@
+
+dist/
+deploy.sh
+.vscode/
+
+# Wails build artifacts
+cmd/eqlogui/frontend/wailsjs/
+cmd/eqlogui/frontend/package.json.md5
+
+
+
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
@@ -30,3 +41,20 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Wails / UI
+# --- eqlogui frontend (Node/Vite) ---
+cmd/eqlogui/frontend/node_modules/
+cmd/eqlogui/frontend/dist/
+cmd/eqlogui/frontend/.vite/
+
+cmd/eqlogui/frontend/.env
+cmd/eqlogui/frontend/.env.*
+
+cmd/eqlogui/frontend/npm-debug.log*
+cmd/eqlogui/frontend/yarn-debug.log*
+cmd/eqlogui/frontend/yarn-error.log*
+cmd/eqlogui/frontend/pnpm-debug.log*
+
+cmd/eqlogui/frontend/.eslintcache
+cmd/eqlogui/build/

@@ -1,0 +1,1615 @@
+[Fri Jan 23 07:45:17 2026] Logging to 'eqlog.txt' is now *ON*.
+[Fri Jan 23 07:45:23 2026] The Bite of the Shissar Poison wears off your weapon.
+[Fri Jan 23 07:45:36 2026] You say, '#zone arena'
+[Fri Jan 23 07:45:36 2026] LOADING, PLEASE WAIT...
+[Fri Jan 23 07:45:44 2026] You have entered The Arena.
+[Fri Jan 23 07:45:51 2026] Targeted (NPC): a training dummy
+[Fri Jan 23 07:45:51 2026] Right click on the NPC to consider it.
+[Fri Jan 23 07:46:01 2026] Auto attack is on.
+[Fri Jan 23 07:46:01 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:46:01 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:46:01 2026] Emberval scores a critical hit! (7327)
+[Fri Jan 23 07:46:01 2026] You pierce a training dummy for 7428 points of damage.
+[Fri Jan 23 07:46:01 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:46:01 2026] You pierce a training dummy for 6150 points of damage.
+[Fri Jan 23 07:46:01 2026] You pierce a training dummy for 2183 points of damage.
+[Fri Jan 23 07:46:02 2026] Emberval scores a critical hit! (5484)
+[Fri Jan 23 07:46:02 2026] You pierce a training dummy for 5585 points of damage.
+[Fri Jan 23 07:46:02 2026] Emberval scores a critical hit! (6188)
+[Fri Jan 23 07:46:02 2026] You pierce a training dummy for 6289 points of damage.
+[Fri Jan 23 07:46:02 2026] Emberval scores a critical hit! (7557)
+[Fri Jan 23 07:46:02 2026] You pierce a training dummy for 7658 points of damage.
+[Fri Jan 23 07:46:02 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:46:02 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:46:03 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:03 2026] Emberval scores a critical hit! (6607)
+[Fri Jan 23 07:46:03 2026] You pierce a training dummy for 6708 points of damage.
+[Fri Jan 23 07:46:03 2026] Emberval hit a training dummy for 1920 points of non-melee damage.
+[Fri Jan 23 07:46:03 2026] A training dummy screams in agony.
+[Fri Jan 23 07:46:03 2026] Emberval scores a critical hit! (7278)
+[Fri Jan 23 07:46:03 2026] You pierce a training dummy for 7379 points of damage.
+[Fri Jan 23 07:46:03 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:46:03 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:46:04 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:04 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:46:04 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:46:04 2026] Emberval hit a training dummy for 1036 points of non-melee damage.
+[Fri Jan 23 07:46:04 2026] A training dummy screams in agony.
+[Fri Jan 23 07:46:04 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:46:04 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:46:04 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:05 2026] Emberval scores a critical hit! (6328)
+[Fri Jan 23 07:46:05 2026] You pierce a training dummy for 6429 points of damage.
+[Fri Jan 23 07:46:05 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:05 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:05 2026] You pierce a training dummy for 1860 points of damage.
+[Fri Jan 23 07:46:05 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:05 2026] You pierce a training dummy for 2304 points of damage.
+[Fri Jan 23 07:46:05 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:06 2026] Emberval scores a critical hit! (2293)
+[Fri Jan 23 07:46:06 2026] You pierce a training dummy for 2394 points of damage.
+[Fri Jan 23 07:46:06 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:46:06 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:46:06 2026] You pierce a training dummy for 2193 points of damage.
+[Fri Jan 23 07:46:06 2026] You pierce a training dummy for 423 points of damage.
+[Fri Jan 23 07:46:06 2026] You pierce a training dummy for 1866 points of damage.
+[Fri Jan 23 07:46:07 2026] You pierce a training dummy for 944 points of damage.
+[Fri Jan 23 07:46:07 2026] Emberval scores a critical hit! (2293)
+[Fri Jan 23 07:46:07 2026] You pierce a training dummy for 2394 points of damage.
+[Fri Jan 23 07:46:07 2026] You pierce a training dummy for 848 points of damage.
+[Fri Jan 23 07:46:07 2026] You deliver a critical blast! (3452)
+[Fri Jan 23 07:46:07 2026] Emberval hit a training dummy for 3452 points of non-melee damage.
+[Fri Jan 23 07:46:07 2026] A training dummy staggers.
+[Fri Jan 23 07:46:07 2026] You pierce a training dummy for 759 points of damage.
+[Fri Jan 23 07:46:07 2026] Emberval scores a critical hit! (6278)
+[Fri Jan 23 07:46:07 2026] You pierce a training dummy for 6379 points of damage.
+[Fri Jan 23 07:46:07 2026] You pierce a training dummy for 2441 points of damage.
+[Fri Jan 23 07:46:07 2026] Emberval scores a critical hit! (2947)
+[Fri Jan 23 07:46:07 2026] You pierce a training dummy for 3048 points of damage.
+[Fri Jan 23 07:46:07 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:08 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:08 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:08 2026] Emberval scores a critical hit! (7371)
+[Fri Jan 23 07:46:08 2026] You pierce a training dummy for 7472 points of damage.
+[Fri Jan 23 07:46:08 2026] Emberval scores a critical hit! (7467)
+[Fri Jan 23 07:46:08 2026] You pierce a training dummy for 7568 points of damage.
+[Fri Jan 23 07:46:08 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:09 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:09 2026] Emberval scores a critical hit! (6139)
+[Fri Jan 23 07:46:09 2026] You pierce a training dummy for 6240 points of damage.
+[Fri Jan 23 07:46:09 2026] Emberval hit a training dummy for 2496 points of non-melee damage.
+[Fri Jan 23 07:46:09 2026] A training dummy screams in agony.
+[Fri Jan 23 07:46:09 2026] Emberval scores a critical hit! (7417)
+[Fri Jan 23 07:46:09 2026] You pierce a training dummy for 7518 points of damage.
+[Fri Jan 23 07:46:09 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:46:09 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:46:10 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:10 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:10 2026] Emberval scores a critical hit! (7327)
+[Fri Jan 23 07:46:10 2026] You pierce a training dummy for 7428 points of damage.
+[Fri Jan 23 07:46:10 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:10 2026] Emberval scores a critical hit! (6098)
+[Fri Jan 23 07:46:10 2026] You pierce a training dummy for 6199 points of damage.
+[Fri Jan 23 07:46:10 2026] Emberval scores a critical hit! (3376)
+[Fri Jan 23 07:46:10 2026] You pierce a training dummy for 3477 points of damage.
+[Fri Jan 23 07:46:11 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:11 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:11 2026] You pierce a training dummy for 848 points of damage.
+[Fri Jan 23 07:46:11 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:11 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:12 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:46:12 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:46:12 2026] Emberval scores a critical hit! (7557)
+[Fri Jan 23 07:46:12 2026] You pierce a training dummy for 7658 points of damage.
+[Fri Jan 23 07:46:12 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:46:12 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:46:12 2026] You pierce a training dummy for 2167 points of damage.
+[Fri Jan 23 07:46:12 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:13 2026] Emberval scores a critical hit! (2293)
+[Fri Jan 23 07:46:13 2026] You pierce a training dummy for 2394 points of damage.
+[Fri Jan 23 07:46:13 2026] Emberval scores a critical hit! (5715)
+[Fri Jan 23 07:46:13 2026] You pierce a training dummy for 5816 points of damage.
+[Fri Jan 23 07:46:13 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:46:13 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:46:13 2026] You pierce a training dummy for 2304 points of damage.
+[Fri Jan 23 07:46:13 2026] You pierce a training dummy for 2289 points of damage.
+[Fri Jan 23 07:46:14 2026] Emberval scores a critical hit! (2181)
+[Fri Jan 23 07:46:14 2026] You pierce a training dummy for 2282 points of damage.
+[Fri Jan 23 07:46:14 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:14 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:14 2026] You pierce a training dummy for 682 points of damage.
+[Fri Jan 23 07:46:14 2026] You pierce a training dummy for 2501 points of damage.
+[Fri Jan 23 07:46:14 2026] Emberval scores a critical hit! (7278)
+[Fri Jan 23 07:46:14 2026] You pierce a training dummy for 7379 points of damage.
+[Fri Jan 23 07:46:14 2026] Emberval scores a critical hit! (3589)
+[Fri Jan 23 07:46:14 2026] You pierce a training dummy for 3690 points of damage.
+[Fri Jan 23 07:46:15 2026] Emberval hit a training dummy for 1116 points of non-melee damage.
+[Fri Jan 23 07:46:15 2026] A training dummy staggers.
+[Fri Jan 23 07:46:15 2026] Emberval scores a critical hit! (6328)
+[Fri Jan 23 07:46:15 2026] You pierce a training dummy for 6429 points of damage.
+[Fri Jan 23 07:46:15 2026] You pierce a training dummy for 2154 points of damage.
+[Fri Jan 23 07:46:15 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:46:15 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:46:15 2026] You pierce a training dummy for 848 points of damage.
+[Fri Jan 23 07:46:15 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:15 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:46:15 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:46:16 2026] Emberval hit a training dummy for 1574 points of non-melee damage.
+[Fri Jan 23 07:46:16 2026] A training dummy screams in agony.
+[Fri Jan 23 07:46:16 2026] Emberval scores a critical hit! (2209)
+[Fri Jan 23 07:46:16 2026] You pierce a training dummy for 2310 points of damage.
+[Fri Jan 23 07:46:16 2026] Emberval scores a critical hit! (7467)
+[Fri Jan 23 07:46:16 2026] You pierce a training dummy for 7568 points of damage.
+[Fri Jan 23 07:46:16 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:16 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:17 2026] Emberval hit a training dummy for 2803 points of non-melee damage.
+[Fri Jan 23 07:46:17 2026] A training dummy screams in agony.
+[Fri Jan 23 07:46:17 2026] You pierce a training dummy for 839 points of damage.
+[Fri Jan 23 07:46:17 2026] Emberval scores a critical hit! (3052)
+[Fri Jan 23 07:46:17 2026] You pierce a training dummy for 3153 points of damage.
+[Fri Jan 23 07:46:17 2026] Emberval scores a critical hit! (1117)
+[Fri Jan 23 07:46:17 2026] You pierce a training dummy for 1218 points of damage.
+[Fri Jan 23 07:46:17 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:46:17 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:46:18 2026] You pierce a training dummy for 2562 points of damage.
+[Fri Jan 23 07:46:18 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:18 2026] You pierce a training dummy for 2064 points of damage.
+[Fri Jan 23 07:46:18 2026] Emberval scores a critical hit! (1340)
+[Fri Jan 23 07:46:18 2026] You pierce a training dummy for 1441 points of damage.
+[Fri Jan 23 07:46:19 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:19 2026] Emberval scores a critical hit! (1857)
+[Fri Jan 23 07:46:19 2026] You pierce a training dummy for 1958 points of damage.
+[Fri Jan 23 07:46:19 2026] You pierce a training dummy for 2411 points of damage.
+[Fri Jan 23 07:46:19 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:19 2026] You pierce a training dummy for 2562 points of damage.
+[Fri Jan 23 07:46:20 2026] Emberval hit a training dummy for 2520 points of non-melee damage.
+[Fri Jan 23 07:46:20 2026] A training dummy staggers.
+[Fri Jan 23 07:46:20 2026] Emberval scores a critical hit! (4353)
+[Fri Jan 23 07:46:20 2026] You pierce a training dummy for 4454 points of damage.
+[Fri Jan 23 07:46:20 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:20 2026] Emberval hit a training dummy for 2073 points of non-melee damage.
+[Fri Jan 23 07:46:20 2026] A training dummy screams in agony.
+[Fri Jan 23 07:46:20 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:20 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:46:20 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:46:21 2026] You deliver a critical blast! (3524)
+[Fri Jan 23 07:46:21 2026] Emberval hit a training dummy for 3524 points of non-melee damage.
+[Fri Jan 23 07:46:21 2026] A training dummy staggers.
+[Fri Jan 23 07:46:21 2026] You pierce a training dummy for 759 points of damage.
+[Fri Jan 23 07:46:21 2026] Emberval scores a critical hit! (6377)
+[Fri Jan 23 07:46:21 2026] You pierce a training dummy for 6478 points of damage.
+[Fri Jan 23 07:46:21 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:46:21 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:46:21 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:21 2026] Emberval hit a training dummy for 1656 points of non-melee damage.
+[Fri Jan 23 07:46:21 2026] A training dummy staggers.
+[Fri Jan 23 07:46:21 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:46:21 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:46:21 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:46:21 2026] Auto attack is off.
+[Fri Jan 23 07:46:22 2026] You pierce a training dummy for 625 points of damage.
+[Fri Jan 23 07:46:22 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:46:22 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:46:22 2026] Emberval scores a critical hit! (6066)
+[Fri Jan 23 07:46:22 2026] You pierce a training dummy for 6167 points of damage.
+[Fri Jan 23 07:46:23 2026] You no longer have a target.
+[Fri Jan 23 07:46:59 2026] Targeted (NPC): a training dummy
+[Fri Jan 23 07:46:59 2026] Right click on the NPC to consider it.
+[Fri Jan 23 07:47:01 2026] You begin casting Bite of the Shissar Poison VII.
+[Fri Jan 23 07:47:08 2026] Auto attack is on.
+[Fri Jan 23 07:47:08 2026] You pierce a training dummy for 1732 points of damage.
+[Fri Jan 23 07:47:08 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:47:08 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:47:08 2026] You pierce a training dummy for 1902 points of damage.
+[Fri Jan 23 07:47:08 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:09 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:09 2026] You pierce a training dummy for 723 points of damage.
+[Fri Jan 23 07:47:09 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:09 2026] Emberval hit a training dummy for 10962 points of non-melee damage.
+[Fri Jan 23 07:47:09 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:09 2026] Emberval scores a critical hit! (3744)
+[Fri Jan 23 07:47:09 2026] You pierce a training dummy for 3845 points of damage.
+[Fri Jan 23 07:47:09 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:09 2026] Emberval scores a critical hit! (2181)
+[Fri Jan 23 07:47:09 2026] You pierce a training dummy for 2282 points of damage.
+[Fri Jan 23 07:47:10 2026] You pierce a training dummy for 2228 points of damage.
+[Fri Jan 23 07:47:10 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:47:10 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:47:10 2026] Emberval hit a training dummy for 2496 points of non-melee damage.
+[Fri Jan 23 07:47:10 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:10 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:10 2026] Emberval scores a critical hit! (6931)
+[Fri Jan 23 07:47:10 2026] You pierce a training dummy for 7032 points of damage.
+[Fri Jan 23 07:47:11 2026] You deliver a critical blast! (3452)
+[Fri Jan 23 07:47:11 2026] Emberval hit a training dummy for 3452 points of non-melee damage.
+[Fri Jan 23 07:47:11 2026] A training dummy staggers.
+[Fri Jan 23 07:47:11 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:47:11 2026] You pierce a training dummy for 6150 points of damage.
+[Fri Jan 23 07:47:11 2026] Emberval scores a critical hit! (3432)
+[Fri Jan 23 07:47:11 2026] You pierce a training dummy for 3533 points of damage.
+[Fri Jan 23 07:47:11 2026] Emberval hit a training dummy for 2611 points of non-melee damage.
+[Fri Jan 23 07:47:11 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:11 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:11 2026] Emberval hit a training dummy for 15301 points of non-melee damage.
+[Fri Jan 23 07:47:11 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:11 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:11 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:11 2026] Emberval scores a critical hit! (7417)
+[Fri Jan 23 07:47:11 2026] You pierce a training dummy for 7518 points of damage.
+[Fri Jan 23 07:47:12 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:12 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:12 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:12 2026] Emberval hit a training dummy for 6394 points of non-melee damage.
+[Fri Jan 23 07:47:12 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:12 2026] Emberval scores a critical hit! (7188)
+[Fri Jan 23 07:47:12 2026] You pierce a training dummy for 7289 points of damage.
+[Fri Jan 23 07:47:12 2026] Emberval scores a critical hit! (7231)
+[Fri Jan 23 07:47:12 2026] You pierce a training dummy for 7332 points of damage.
+[Fri Jan 23 07:47:12 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:47:12 2026] You pierce a training dummy for 6150 points of damage.
+[Fri Jan 23 07:47:12 2026] Emberval scores a critical hit! (1814)
+[Fri Jan 23 07:47:12 2026] You pierce a training dummy for 1915 points of damage.
+[Fri Jan 23 07:47:13 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:13 2026] Emberval hit a training dummy for 9820 points of non-melee damage.
+[Fri Jan 23 07:47:13 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:13 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:13 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:13 2026] You pierce a training dummy for 2517 points of damage.
+[Fri Jan 23 07:47:13 2026] You pierce a training dummy for 2304 points of damage.
+[Fri Jan 23 07:47:13 2026] Emberval scores a critical hit! (6703)
+[Fri Jan 23 07:47:13 2026] You pierce a training dummy for 6804 points of damage.
+[Fri Jan 23 07:47:14 2026] You pierce a training dummy for 1842 points of damage.
+[Fri Jan 23 07:47:14 2026] You pierce a training dummy for 848 points of damage.
+[Fri Jan 23 07:47:14 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:14 2026] You pierce a training dummy for 2304 points of damage.
+[Fri Jan 23 07:47:14 2026] Emberval scores a critical hit! (5094)
+[Fri Jan 23 07:47:14 2026] You pierce a training dummy for 5195 points of damage.
+[Fri Jan 23 07:47:14 2026] Emberval scores a critical hit! (5948)
+[Fri Jan 23 07:47:14 2026] You pierce a training dummy for 6049 points of damage.
+[Fri Jan 23 07:47:14 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:47:14 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:47:15 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:15 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:15 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:15 2026] Emberval hit a training dummy for 5937 points of non-melee damage.
+[Fri Jan 23 07:47:15 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:15 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:15 2026] You pierce a training dummy for 1748 points of damage.
+[Fri Jan 23 07:47:16 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:16 2026] You deliver a critical blast! (26944)
+[Fri Jan 23 07:47:16 2026] Emberval hit a training dummy for 26944 points of non-melee damage.
+[Fri Jan 23 07:47:16 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:16 2026] You pierce a training dummy for 1204 points of damage.
+[Fri Jan 23 07:47:16 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:16 2026] Emberval hit a training dummy for 1459 points of non-melee damage.
+[Fri Jan 23 07:47:16 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:16 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:16 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:16 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:17 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:17 2026] You deliver a critical blast! (32882)
+[Fri Jan 23 07:47:17 2026] Emberval hit a training dummy for 32882 points of non-melee damage.
+[Fri Jan 23 07:47:17 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:17 2026] Emberval scores a critical hit! (6418)
+[Fri Jan 23 07:47:17 2026] You pierce a training dummy for 6519 points of damage.
+[Fri Jan 23 07:47:17 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:17 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:17 2026] Emberval hit a training dummy for 8221 points of non-melee damage.
+[Fri Jan 23 07:47:17 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:17 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:17 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:17 2026] You pierce a training dummy for 759 points of damage.
+[Fri Jan 23 07:47:17 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:47:17 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:47:18 2026] Emberval hit a training dummy for 1267 points of non-melee damage.
+[Fri Jan 23 07:47:18 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:18 2026] Emberval scores a critical hit! (2153)
+[Fri Jan 23 07:47:18 2026] You pierce a training dummy for 2254 points of damage.
+[Fri Jan 23 07:47:18 2026] Emberval scores a critical hit! (7231)
+[Fri Jan 23 07:47:18 2026] You pierce a training dummy for 7332 points of damage.
+[Fri Jan 23 07:47:18 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:47:18 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:47:18 2026] You pierce a training dummy for 2122 points of damage.
+[Fri Jan 23 07:47:19 2026] Emberval scores a critical hit! (2618)
+[Fri Jan 23 07:47:19 2026] You pierce a training dummy for 2719 points of damage.
+[Fri Jan 23 07:47:19 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:19 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:19 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:19 2026] You pierce a training dummy for 2109 points of damage.
+[Fri Jan 23 07:47:20 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:20 2026] Emberval hit a training dummy for 8906 points of non-melee damage.
+[Fri Jan 23 07:47:20 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:20 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:20 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:20 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:20 2026] Emberval scores a critical hit! (2918)
+[Fri Jan 23 07:47:20 2026] You pierce a training dummy for 3019 points of damage.
+[Fri Jan 23 07:47:20 2026] You pierce a training dummy for 2064 points of damage.
+[Fri Jan 23 07:47:21 2026] Emberval hit a training dummy for 2649 points of non-melee damage.
+[Fri Jan 23 07:47:21 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:21 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:21 2026] You pierce a training dummy for 848 points of damage.
+[Fri Jan 23 07:47:21 2026] Emberval scores a critical hit! (6652)
+[Fri Jan 23 07:47:21 2026] You pierce a training dummy for 6753 points of damage.
+[Fri Jan 23 07:47:21 2026] Emberval scores a critical hit! (6607)
+[Fri Jan 23 07:47:21 2026] You pierce a training dummy for 6708 points of damage.
+[Fri Jan 23 07:47:21 2026] You pierce a training dummy for 2199 points of damage.
+[Fri Jan 23 07:47:22 2026] Emberval scores a critical hit! (7231)
+[Fri Jan 23 07:47:22 2026] You pierce a training dummy for 7332 points of damage.
+[Fri Jan 23 07:47:22 2026] You pierce a training dummy for 2562 points of damage.
+[Fri Jan 23 07:47:22 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:22 2026] Emberval scores a critical hit! (3783)
+[Fri Jan 23 07:47:22 2026] You pierce a training dummy for 3884 points of damage.
+[Fri Jan 23 07:47:22 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:47:22 2026] You pierce a training dummy for 7239 points of damage.
+[Fri Jan 23 07:47:22 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:22 2026] You pierce a training dummy for 2501 points of damage.
+[Fri Jan 23 07:47:22 2026] Emberval scores a critical hit! (5184)
+[Fri Jan 23 07:47:22 2026] You pierce a training dummy for 5285 points of damage.
+[Fri Jan 23 07:47:22 2026] You pierce a training dummy for 2244 points of damage.
+[Fri Jan 23 07:47:23 2026] Emberval scores a critical hit! (6066)
+[Fri Jan 23 07:47:23 2026] You pierce a training dummy for 6167 points of damage.
+[Fri Jan 23 07:47:23 2026] Emberval scores a critical hit! (2277)
+[Fri Jan 23 07:47:23 2026] You pierce a training dummy for 2378 points of damage.
+[Fri Jan 23 07:47:23 2026] Emberval scores a critical hit! (6506)
+[Fri Jan 23 07:47:23 2026] You pierce a training dummy for 6607 points of damage.
+[Fri Jan 23 07:47:23 2026] Emberval scores a critical hit! (6377)
+[Fri Jan 23 07:47:23 2026] You pierce a training dummy for 6478 points of damage.
+[Fri Jan 23 07:47:23 2026] Emberval scores a critical hit! (6656)
+[Fri Jan 23 07:47:23 2026] You pierce a training dummy for 6757 points of damage.
+[Fri Jan 23 07:47:24 2026] You deliver a critical blast! (4676)
+[Fri Jan 23 07:47:24 2026] Emberval hit a training dummy for 4676 points of non-melee damage.
+[Fri Jan 23 07:47:24 2026] A training dummy staggers.
+[Fri Jan 23 07:47:24 2026] Emberval scores a critical hit! (3336)
+[Fri Jan 23 07:47:24 2026] You pierce a training dummy for 3437 points of damage.
+[Fri Jan 23 07:47:24 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:47:24 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:47:24 2026] You deliver a critical blast! (3912)
+[Fri Jan 23 07:47:24 2026] Emberval hit a training dummy for 3912 points of non-melee damage.
+[Fri Jan 23 07:47:24 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:24 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:24 2026] Emberval hit a training dummy for 8450 points of non-melee damage.
+[Fri Jan 23 07:47:24 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:24 2026] You pierce a training dummy for 2501 points of damage.
+[Fri Jan 23 07:47:24 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:25 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:47:25 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:47:25 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:25 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:25 2026] Emberval hit a training dummy for 5709 points of non-melee damage.
+[Fri Jan 23 07:47:25 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:25 2026] Emberval scores a critical hit! (2293)
+[Fri Jan 23 07:47:25 2026] You pierce a training dummy for 2394 points of damage.
+[Fri Jan 23 07:47:25 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:25 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:26 2026] Emberval scores a critical hit! (6563)
+[Fri Jan 23 07:47:26 2026] You pierce a training dummy for 6664 points of damage.
+[Fri Jan 23 07:47:26 2026] Emberval scores a critical hit! (6607)
+[Fri Jan 23 07:47:26 2026] You pierce a training dummy for 6708 points of damage.
+[Fri Jan 23 07:47:26 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:26 2026] You deliver a critical blast! (28770)
+[Fri Jan 23 07:47:26 2026] Emberval hit a training dummy for 28770 points of non-melee damage.
+[Fri Jan 23 07:47:26 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:26 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:26 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:26 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:27 2026] You pierce a training dummy for 2244 points of damage.
+[Fri Jan 23 07:47:27 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:27 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:27 2026] You deliver a critical blast! (21462)
+[Fri Jan 23 07:47:27 2026] Emberval hit a training dummy for 21462 points of non-melee damage.
+[Fri Jan 23 07:47:27 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:27 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:27 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:27 2026] Emberval scores a critical hit! (1941)
+[Fri Jan 23 07:47:27 2026] You pierce a training dummy for 2042 points of damage.
+[Fri Jan 23 07:47:27 2026] You pierce a training dummy for 1089 points of damage.
+[Fri Jan 23 07:47:28 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:28 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:28 2026] You pierce a training dummy for 2304 points of damage.
+[Fri Jan 23 07:47:28 2026] Emberval scores a critical hit! (6607)
+[Fri Jan 23 07:47:28 2026] You pierce a training dummy for 6708 points of damage.
+[Fri Jan 23 07:47:29 2026] Emberval scores a critical hit! (7467)
+[Fri Jan 23 07:47:29 2026] You pierce a training dummy for 7568 points of damage.
+[Fri Jan 23 07:47:29 2026] Emberval scores a critical hit! (7231)
+[Fri Jan 23 07:47:29 2026] You pierce a training dummy for 7332 points of damage.
+[Fri Jan 23 07:47:29 2026] Emberval scores a critical hit! (4275)
+[Fri Jan 23 07:47:29 2026] You pierce a training dummy for 4376 points of damage.
+[Fri Jan 23 07:47:29 2026] Emberval scores a critical hit! (6334)
+[Fri Jan 23 07:47:29 2026] You pierce a training dummy for 6435 points of damage.
+[Fri Jan 23 07:47:29 2026] You deliver a critical blast! (2452)
+[Fri Jan 23 07:47:29 2026] Emberval hit a training dummy for 2452 points of non-melee damage.
+[Fri Jan 23 07:47:29 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:29 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:29 2026] Emberval hit a training dummy for 7764 points of non-melee damage.
+[Fri Jan 23 07:47:29 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:30 2026] Emberval scores a critical hit! (3679)
+[Fri Jan 23 07:47:30 2026] You pierce a training dummy for 3780 points of damage.
+[Fri Jan 23 07:47:30 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:30 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:30 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:30 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:30 2026] You pierce a training dummy for 648 points of damage.
+[Fri Jan 23 07:47:30 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:30 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:47:30 2026] Emberval hit a training dummy for 13246 points of non-melee damage.
+[Fri Jan 23 07:47:30 2026] A training dummy is afflicted by poison.
+[Fri Jan 23 07:47:30 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:30 2026] Emberval scores a critical hit! (5948)
+[Fri Jan 23 07:47:30 2026] You pierce a training dummy for 6049 points of damage.
+[Fri Jan 23 07:47:31 2026] Emberval hit a training dummy for 2520 points of non-melee damage.
+[Fri Jan 23 07:47:31 2026] A training dummy staggers.
+[Fri Jan 23 07:47:31 2026] You pierce a training dummy for 2109 points of damage.
+[Fri Jan 23 07:47:31 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:47:31 2026] You pierce a training dummy for 6150 points of damage.
+[Fri Jan 23 07:47:31 2026] Emberval scores a critical hit! (7278)
+[Fri Jan 23 07:47:31 2026] You pierce a training dummy for 7379 points of damage.
+[Fri Jan 23 07:47:31 2026] Emberval scores a critical hit! (6087)
+[Fri Jan 23 07:47:31 2026] You pierce a training dummy for 6188 points of damage.
+[Fri Jan 23 07:47:31 2026] Emberval scores a critical hit! (7371)
+[Fri Jan 23 07:47:31 2026] You pierce a training dummy for 7472 points of damage.
+[Fri Jan 23 07:47:32 2026] You pierce a training dummy for 732 points of damage.
+[Fri Jan 23 07:47:32 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:32 2026] Emberval hit a training dummy for 2572 points of non-melee damage.
+[Fri Jan 23 07:47:32 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:32 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:47:32 2026] You pierce a training dummy for 7707 points of damage.
+[Fri Jan 23 07:47:32 2026] Emberval scores a critical hit! (7417)
+[Fri Jan 23 07:47:32 2026] You pierce a training dummy for 7518 points of damage.
+[Fri Jan 23 07:47:33 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:47:33 2026] You pierce a training dummy for 6943 points of damage.
+[Fri Jan 23 07:47:33 2026] You pierce a training dummy for 464 points of damage.
+[Fri Jan 23 07:47:33 2026] You pierce a training dummy for 2456 points of damage.
+[Fri Jan 23 07:47:33 2026] Emberval scores a critical hit! (3539)
+[Fri Jan 23 07:47:33 2026] You pierce a training dummy for 3640 points of damage.
+[Fri Jan 23 07:47:33 2026] Emberval scores a critical hit! (2293)
+[Fri Jan 23 07:47:33 2026] You pierce a training dummy for 2394 points of damage.
+[Fri Jan 23 07:47:33 2026] Emberval hit a training dummy for 2448 points of non-melee damage.
+[Fri Jan 23 07:47:33 2026] A training dummy staggers.
+[Fri Jan 23 07:47:33 2026] Emberval scores a critical hit! (1814)
+[Fri Jan 23 07:47:33 2026] You pierce a training dummy for 1915 points of damage.
+[Fri Jan 23 07:47:33 2026] Emberval scores a critical hit! (6328)
+[Fri Jan 23 07:47:33 2026] You pierce a training dummy for 6429 points of damage.
+[Fri Jan 23 07:47:34 2026] You deliver a critical blast! (3604)
+[Fri Jan 23 07:47:34 2026] Emberval hit a training dummy for 3604 points of non-melee damage.
+[Fri Jan 23 07:47:34 2026] A training dummy screams in agony.
+[Fri Jan 23 07:47:34 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:34 2026] You pierce a training dummy for 2517 points of damage.
+[Fri Jan 23 07:47:34 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:47:34 2026] You pierce a training dummy for 6150 points of damage.
+[Fri Jan 23 07:47:34 2026] You try to pierce a training dummy, but miss!
+[Fri Jan 23 07:47:34 2026] Auto attack is off.
+[Fri Jan 23 07:53:37 2026] You invite sigdis to join your group.
+[Fri Jan 23 07:53:39 2026] You are now the leader of your group.
+[Fri Jan 23 07:53:39 2026] You have joined the group.
+[Fri Jan 23 07:53:39 2026] Sigdis has joined the group.
+[Fri Jan 23 07:53:41 2026] You no longer have a target.
+[Fri Jan 23 07:53:42 2026] Targeted (NPC): DPS Machine
+[Fri Jan 23 07:53:42 2026] Right click on the NPC to consider it.
+[Fri Jan 23 07:53:49 2026] Sigdis hit DPS Machine for 18000 points of non-melee damage.
+[Fri Jan 23 07:53:49 2026] Sigdis hit DPS Machine for 25047 points of non-melee damage.
+[Fri Jan 23 07:53:49 2026] Sigdis scores a critical hit! (222)
+[Fri Jan 23 07:53:49 2026] Sigdis crushes DPS Machine for 316 points of damage.
+[Fri Jan 23 07:53:49 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:53:49 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:53:49 2026] DPS Machine hits Sigdis for 202 points of damage.
+[Fri Jan 23 07:53:49 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:53:49 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:53:49 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:53:49 2026] DPS Machine kicks Sigdis for 231 points of damage.
+[Fri Jan 23 07:53:50 2026] Sigdis delivers a critical blast! (12414)
+[Fri Jan 23 07:53:50 2026] Sigdis hit DPS Machine for 12414 points of non-melee damage.
+[Fri Jan 23 07:53:50 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:53:51 2026] Sigdis hit DPS Machine for 28587 points of non-melee damage.
+[Fri Jan 23 07:53:51 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:53:52 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:53:52 2026] DPS Machine hits Sigdis for 196 points of damage.
+[Fri Jan 23 07:53:52 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:53:52 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:53:52 2026] Sigdis hit DPS Machine for 20340 points of non-melee damage.
+[Fri Jan 23 07:53:52 2026] Sigdis hit DPS Machine for 29676 points of non-melee damage.
+[Fri Jan 23 07:53:52 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:53:54 2026] Sigdis delivers a critical blast! (37434)
+[Fri Jan 23 07:53:54 2026] Sigdis hit DPS Machine for 37434 points of non-melee damage.
+[Fri Jan 23 07:53:54 2026] Sigdis delivers a critical blast! (34194)
+[Fri Jan 23 07:53:54 2026] Sigdis hit DPS Machine for 34194 points of non-melee damage.
+[Fri Jan 23 07:53:54 2026] Sigdis hit DPS Machine for 21236 points of non-melee damage.
+[Fri Jan 23 07:53:54 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:53:55 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:53:55 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:53:55 2026] Sigdis delivers a critical blast! (50088)
+[Fri Jan 23 07:53:55 2026] Sigdis hit DPS Machine for 50088 points of non-melee damage.
+[Fri Jan 23 07:53:55 2026] Sigdis crushes DPS Machine for 176 points of damage.
+[Fri Jan 23 07:53:56 2026] Sigdis delivers a critical blast! (51722)
+[Fri Jan 23 07:53:56 2026] Sigdis hit DPS Machine for 51722 points of non-melee damage.
+[Fri Jan 23 07:53:56 2026] Sigdis hit DPS Machine for 26136 points of non-melee damage.
+[Fri Jan 23 07:53:56 2026] Sigdis crushes DPS Machine for 320 points of damage.
+[Fri Jan 23 07:53:57 2026] DPS Machine tries to kick Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:53:57 2026] Sigdis delivers a critical blast! (46278)
+[Fri Jan 23 07:53:57 2026] Sigdis hit DPS Machine for 46278 points of non-melee damage.
+[Fri Jan 23 07:53:57 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:53:58 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:53:59 2026] Sigdis delivers a critical blast! (42466)
+[Fri Jan 23 07:53:59 2026] Sigdis hit DPS Machine for 42466 points of non-melee damage.
+[Fri Jan 23 07:53:59 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:54:00 2026] Sigdis delivers a critical blast! (33834)
+[Fri Jan 23 07:54:00 2026] Sigdis hit DPS Machine for 33834 points of non-melee damage.
+[Fri Jan 23 07:54:00 2026] Sigdis hit DPS Machine for 30765 points of non-melee damage.
+[Fri Jan 23 07:54:00 2026] Sigdis hit DPS Machine for 10432 points of non-melee damage.
+[Fri Jan 23 07:54:00 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:00 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:00 2026] DPS Machine hits Sigdis for 199 points of damage.
+[Fri Jan 23 07:54:00 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:00 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:00 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:01 2026] Sigdis hit DPS Machine for 31538 points of non-melee damage.
+[Fri Jan 23 07:54:01 2026] Sigdis scores a critical hit! (459)
+[Fri Jan 23 07:54:01 2026] Sigdis crushes DPS Machine for 553 points of damage.
+[Fri Jan 23 07:54:02 2026] Sigdis delivers a critical blast! (33834)
+[Fri Jan 23 07:54:02 2026] Sigdis hit DPS Machine for 33834 points of non-melee damage.
+[Fri Jan 23 07:54:02 2026] Sigdis hit DPS Machine for 31582 points of non-melee damage.
+[Fri Jan 23 07:54:02 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:03 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:54:03 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:03 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:03 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:03 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:03 2026] Sigdis hit DPS Machine for 7142 points of non-melee damage.
+[Fri Jan 23 07:54:03 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:05 2026] Sigdis delivers a critical blast! (68058)
+[Fri Jan 23 07:54:05 2026] Sigdis hit DPS Machine for 68058 points of non-melee damage.
+[Fri Jan 23 07:54:05 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:54:05 2026] DPS Machine tries to kick Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:06 2026] Sigdis delivers a critical blast! (43194)
+[Fri Jan 23 07:54:06 2026] Sigdis hit DPS Machine for 43194 points of non-melee damage.
+[Fri Jan 23 07:54:06 2026] Sigdis delivers a critical blast! (50088)
+[Fri Jan 23 07:54:06 2026] Sigdis hit DPS Machine for 50088 points of non-melee damage.
+[Fri Jan 23 07:54:06 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:06 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:06 2026] DPS Machine hits Sigdis for 185 points of damage.
+[Fri Jan 23 07:54:07 2026] Sigdis hit DPS Machine for 15480 points of non-melee damage.
+[Fri Jan 23 07:54:07 2026] Sigdis delivers a critical blast! (55534)
+[Fri Jan 23 07:54:07 2026] Sigdis hit DPS Machine for 55534 points of non-melee damage.
+[Fri Jan 23 07:54:07 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:08 2026] Sigdis hit DPS Machine for 23142 points of non-melee damage.
+[Fri Jan 23 07:54:08 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:09 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:09 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:09 2026] Sigdis delivers a critical blast! (52812)
+[Fri Jan 23 07:54:09 2026] Sigdis hit DPS Machine for 52812 points of non-melee damage.
+[Fri Jan 23 07:54:09 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:11 2026] Sigdis delivers a critical blast! (44994)
+[Fri Jan 23 07:54:11 2026] Sigdis hit DPS Machine for 44994 points of non-melee damage.
+[Fri Jan 23 07:54:11 2026] Sigdis hit DPS Machine for 27498 points of non-melee damage.
+[Fri Jan 23 07:54:11 2026] Sigdis hit DPS Machine for 2439 points of non-melee damage.
+[Fri Jan 23 07:54:11 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:54:12 2026] Sigdis delivers a critical blast! (28434)
+[Fri Jan 23 07:54:12 2026] Sigdis hit DPS Machine for 28434 points of non-melee damage.
+[Fri Jan 23 07:54:12 2026] Sigdis hit DPS Machine for 26953 points of non-melee damage.
+[Fri Jan 23 07:54:12 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:12 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:12 2026] DPS Machine hits Sigdis for 193 points of damage.
+[Fri Jan 23 07:54:12 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:12 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:12 2026] DPS Machine tries to hit Sigdis, but misses!
+[Fri Jan 23 07:54:13 2026] DPS Machine tries to kick Sigdis, but misses!
+[Fri Jan 23 07:54:13 2026] Sigdis hit DPS Machine for 33215 points of non-melee damage.
+[Fri Jan 23 07:54:13 2026] Sigdis hit DPS Machine for 22597 points of non-melee damage.
+[Fri Jan 23 07:54:13 2026] Sigdis scores a critical hit! (323)
+[Fri Jan 23 07:54:13 2026] Sigdis crushes DPS Machine for 417 points of damage.
+[Fri Jan 23 07:54:14 2026] Sigdis delivers a critical blast! (35274)
+[Fri Jan 23 07:54:14 2026] Sigdis hit DPS Machine for 35274 points of non-melee damage.
+[Fri Jan 23 07:54:14 2026] Sigdis delivers a critical blast! (41376)
+[Fri Jan 23 07:54:14 2026] Sigdis hit DPS Machine for 41376 points of non-melee damage.
+[Fri Jan 23 07:54:14 2026] Sigdis hit DPS Machine for 25592 points of non-melee damage.
+[Fri Jan 23 07:54:14 2026] Sigdis scores a critical hit! (459)
+[Fri Jan 23 07:54:14 2026] Sigdis crushes DPS Machine for 553 points of damage.
+[Fri Jan 23 07:54:15 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:15 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:15 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:15 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:15 2026] DPS Machine hits Sigdis for 195 points of damage.
+[Fri Jan 23 07:54:16 2026] Sigdis delivers a critical blast! (33114)
+[Fri Jan 23 07:54:16 2026] Sigdis hit DPS Machine for 33114 points of non-melee damage.
+[Fri Jan 23 07:54:16 2026] Sigdis delivers a critical blast! (9336)
+[Fri Jan 23 07:54:16 2026] Sigdis hit DPS Machine for 9336 points of non-melee damage.
+[Fri Jan 23 07:54:16 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:17 2026] Sigdis hit DPS Machine for 17820 points of non-melee damage.
+[Fri Jan 23 07:54:17 2026] Sigdis delivers a critical blast! (53356)
+[Fri Jan 23 07:54:17 2026] Sigdis hit DPS Machine for 53356 points of non-melee damage.
+[Fri Jan 23 07:54:17 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:54:18 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:18 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:18 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:18 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:18 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:54:18 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:18 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:18 2026] Sigdis hit DPS Machine for 30493 points of non-melee damage.
+[Fri Jan 23 07:54:18 2026] Sigdis delivers a critical blast! (58256)
+[Fri Jan 23 07:54:18 2026] Sigdis hit DPS Machine for 58256 points of non-melee damage.
+[Fri Jan 23 07:54:18 2026] Sigdis scores a critical hit! (459)
+[Fri Jan 23 07:54:18 2026] Sigdis crushes DPS Machine for 553 points of damage.
+[Fri Jan 23 07:54:19 2026] Sigdis hit DPS Machine for 23414 points of non-melee damage.
+[Fri Jan 23 07:54:19 2026] Sigdis tries to crush DPS Machine, but DPS Machine dodges!
+[Fri Jan 23 07:54:20 2026] Sigdis delivers a critical blast! (38514)
+[Fri Jan 23 07:54:20 2026] Sigdis hit DPS Machine for 38514 points of non-melee damage.
+[Fri Jan 23 07:54:20 2026] Sigdis delivers a critical blast! (50088)
+[Fri Jan 23 07:54:20 2026] Sigdis hit DPS Machine for 50088 points of non-melee damage.
+[Fri Jan 23 07:54:20 2026] Sigdis delivers a critical blast! (65336)
+[Fri Jan 23 07:54:20 2026] Sigdis hit DPS Machine for 65336 points of non-melee damage.
+[Fri Jan 23 07:54:20 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:54:21 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:21 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:54:21 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:21 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:21 2026] DPS Machine kicks Sigdis for 202 points of damage.
+[Fri Jan 23 07:54:23 2026] Sigdis hit DPS Machine for 32671 points of non-melee damage.
+[Fri Jan 23 07:54:23 2026] Sigdis delivers a critical blast! (33690)
+[Fri Jan 23 07:54:23 2026] Sigdis hit DPS Machine for 33690 points of non-melee damage.
+[Fri Jan 23 07:54:23 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:54:24 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:54:24 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:24 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:24 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:54:24 2026] Sigdis hit DPS Machine for 33487 points of non-melee damage.
+[Fri Jan 23 07:54:24 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:54:25 2026] Sigdis hit DPS Machine for 9329 points of non-melee damage.
+[Fri Jan 23 07:54:25 2026] Sigdis scores a critical hit! (459)
+[Fri Jan 23 07:54:25 2026] Sigdis crushes DPS Machine for 553 points of damage.
+[Fri Jan 23 07:54:27 2026] Sigdis hit DPS Machine for 21240 points of non-melee damage.
+[Fri Jan 23 07:54:27 2026] Sigdis delivers a critical blast! (64790)
+[Fri Jan 23 07:54:27 2026] Sigdis hit DPS Machine for 64790 points of non-melee damage.
+[Fri Jan 23 07:54:27 2026] Sigdis hit DPS Machine for 28042 points of non-melee damage.
+[Fri Jan 23 07:54:27 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:27 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:27 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:27 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:27 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:27 2026] DPS Machine hits Sigdis for 196 points of damage.
+[Fri Jan 23 07:54:28 2026] Sigdis delivers a critical blast! (35994)
+[Fri Jan 23 07:54:28 2026] Sigdis hit DPS Machine for 35994 points of non-melee damage.
+[Fri Jan 23 07:54:28 2026] Sigdis hit DPS Machine for 20419 points of non-melee damage.
+[Fri Jan 23 07:54:28 2026] Sigdis scores a critical hit! (459)
+[Fri Jan 23 07:54:28 2026] Sigdis crushes DPS Machine for 553 points of damage.
+[Fri Jan 23 07:54:29 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:29 2026] DPS Machine kicks Sigdis for 187 points of damage.
+[Fri Jan 23 07:54:29 2026] Sigdis hit DPS Machine for 21240 points of non-melee damage.
+[Fri Jan 23 07:54:29 2026] Sigdis hit DPS Machine for 14424 points of non-melee damage.
+[Fri Jan 23 07:54:29 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:54:30 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:30 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:30 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:30 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:30 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:30 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:32 2026] Sigdis hit DPS Machine for 32943 points of non-melee damage.
+[Fri Jan 23 07:54:32 2026] Sigdis tries to crush DPS Machine, but DPS Machine parries!
+[Fri Jan 23 07:54:33 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:33 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:33 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:33 2026] Sigdis hit DPS Machine for 21850 points of non-melee damage.
+[Fri Jan 23 07:54:33 2026] Sigdis delivers a critical blast! (54990)
+[Fri Jan 23 07:54:33 2026] Sigdis hit DPS Machine for 54990 points of non-melee damage.
+[Fri Jan 23 07:54:33 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:54:34 2026] Sigdis delivers a critical blast! (59890)
+[Fri Jan 23 07:54:34 2026] Sigdis hit DPS Machine for 59890 points of non-melee damage.
+[Fri Jan 23 07:54:34 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:35 2026] Sigdis delivers a critical blast! (44100)
+[Fri Jan 23 07:54:35 2026] Sigdis hit DPS Machine for 44100 points of non-melee damage.
+[Fri Jan 23 07:54:35 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:54:36 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:36 2026] Sigdis delivers a critical blast! (46368)
+[Fri Jan 23 07:54:36 2026] Sigdis hit DPS Machine for 46368 points of non-melee damage.
+[Fri Jan 23 07:54:36 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:36 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:37 2026] Sigdis delivers a critical blast! (33474)
+[Fri Jan 23 07:54:37 2026] Sigdis hit DPS Machine for 33474 points of non-melee damage.
+[Fri Jan 23 07:54:37 2026] Sigdis delivers a critical blast! (28074)
+[Fri Jan 23 07:54:37 2026] Sigdis hit DPS Machine for 28074 points of non-melee damage.
+[Fri Jan 23 07:54:37 2026] Sigdis delivers a critical blast! (51722)
+[Fri Jan 23 07:54:37 2026] Sigdis hit DPS Machine for 51722 points of non-melee damage.
+[Fri Jan 23 07:54:37 2026] Sigdis crushes DPS Machine for 294 points of damage.
+[Fri Jan 23 07:54:37 2026] DPS Machine tries to kick Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:38 2026] Sigdis hit DPS Machine for 32398 points of non-melee damage.
+[Fri Jan 23 07:54:38 2026] Sigdis scores a critical hit! (367)
+[Fri Jan 23 07:54:38 2026] Sigdis crushes DPS Machine for 461 points of damage.
+[Fri Jan 23 07:54:38 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:38 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:38 2026] Sigdis delivers a critical blast! (53950)
+[Fri Jan 23 07:54:38 2026] Sigdis hit DPS Machine for 53950 points of non-melee damage.
+[Fri Jan 23 07:54:38 2026] Sigdis delivers a critical blast! (55288)
+[Fri Jan 23 07:54:38 2026] Sigdis hit DPS Machine for 55288 points of non-melee damage.
+[Fri Jan 23 07:54:38 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:38 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:38 2026] DPS Machine hits Sigdis for 195 points of damage.
+[Fri Jan 23 07:54:39 2026] Sigdis hit DPS Machine for 16200 points of non-melee damage.
+[Fri Jan 23 07:54:39 2026] Sigdis hit DPS Machine for 30765 points of non-melee damage.
+[Fri Jan 23 07:54:39 2026] Sigdis crushes DPS Machine for 144 points of damage.
+[Fri Jan 23 07:54:40 2026] Sigdis hit DPS Machine for 34032 points of non-melee damage.
+[Fri Jan 23 07:54:40 2026] Sigdis hit DPS Machine for 22930 points of non-melee damage.
+[Fri Jan 23 07:54:40 2026] Sigdis scores a critical hit! (459)
+[Fri Jan 23 07:54:40 2026] Sigdis crushes DPS Machine for 553 points of damage.
+[Fri Jan 23 07:54:41 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:41 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:41 2026] Sigdis hit DPS Machine for 24302 points of non-melee damage.
+[Fri Jan 23 07:54:41 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:42 2026] Sigdis delivers a critical blast! (49000)
+[Fri Jan 23 07:54:42 2026] Sigdis hit DPS Machine for 49000 points of non-melee damage.
+[Fri Jan 23 07:54:42 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:54:43 2026] Sigdis hit DPS Machine for 26681 points of non-melee damage.
+[Fri Jan 23 07:54:43 2026] Sigdis scores a critical hit! (367)
+[Fri Jan 23 07:54:43 2026] Sigdis crushes DPS Machine for 461 points of damage.
+[Fri Jan 23 07:54:44 2026] Sigdis hit DPS Machine for 21780 points of non-melee damage.
+[Fri Jan 23 07:54:44 2026] Sigdis delivers a critical blast! (50088)
+[Fri Jan 23 07:54:44 2026] Sigdis hit DPS Machine for 50088 points of non-melee damage.
+[Fri Jan 23 07:54:44 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:44 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:44 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:44 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:44 2026] Sigdis delivers a critical blast! (42356)
+[Fri Jan 23 07:54:44 2026] Sigdis hit DPS Machine for 42356 points of non-melee damage.
+[Fri Jan 23 07:54:44 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:44 2026] DPS Machine tries to hit Sigdis, but misses!
+[Fri Jan 23 07:54:45 2026] DPS Machine tries to kick Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:45 2026] Sigdis delivers a critical blast! (68058)
+[Fri Jan 23 07:54:45 2026] Sigdis hit DPS Machine for 68058 points of non-melee damage.
+[Fri Jan 23 07:54:45 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:46 2026] Sigdis hit DPS Machine for 22597 points of non-melee damage.
+[Fri Jan 23 07:54:46 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:54:47 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:47 2026] Sigdis hit DPS Machine for 17167 points of non-melee damage.
+[Fri Jan 23 07:54:47 2026] Sigdis hit DPS Machine for 27201 points of non-melee damage.
+[Fri Jan 23 07:54:47 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:48 2026] Sigdis delivers a critical blast! (35994)
+[Fri Jan 23 07:54:48 2026] Sigdis hit DPS Machine for 35994 points of non-melee damage.
+[Fri Jan 23 07:54:48 2026] Sigdis delivers a critical blast! (44100)
+[Fri Jan 23 07:54:48 2026] Sigdis hit DPS Machine for 44100 points of non-melee damage.
+[Fri Jan 23 07:54:48 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:54:49 2026] Sigdis delivers a critical blast! (53900)
+[Fri Jan 23 07:54:49 2026] Sigdis hit DPS Machine for 53900 points of non-melee damage.
+[Fri Jan 23 07:54:49 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:49 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:49 2026] Sigdis tries to crush DPS Machine, but DPS Machine ripostes!
+[Fri Jan 23 07:54:50 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:54:50 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:50 2026] DPS Machine hits Sigdis for 200 points of damage.
+[Fri Jan 23 07:54:50 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:50 2026] DPS Machine hits Sigdis for 188 points of damage.
+[Fri Jan 23 07:54:50 2026] Sigdis delivers a critical blast! (36112)
+[Fri Jan 23 07:54:50 2026] Sigdis hit DPS Machine for 36112 points of non-melee damage.
+[Fri Jan 23 07:54:50 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:50 2026] DPS Machine hits Sigdis for 202 points of damage.
+[Fri Jan 23 07:54:50 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:54:51 2026] Sigdis delivers a critical blast! (55534)
+[Fri Jan 23 07:54:51 2026] Sigdis hit DPS Machine for 55534 points of non-melee damage.
+[Fri Jan 23 07:54:51 2026] Sigdis crushes DPS Machine for 214 points of damage.
+[Fri Jan 23 07:54:52 2026] Sigdis delivers a critical blast! (42466)
+[Fri Jan 23 07:54:52 2026] Sigdis hit DPS Machine for 42466 points of non-melee damage.
+[Fri Jan 23 07:54:52 2026] Sigdis scores a critical hit! (459)
+[Fri Jan 23 07:54:52 2026] Sigdis crushes DPS Machine for 553 points of damage.
+[Fri Jan 23 07:54:53 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:53 2026] DPS Machine hits Sigdis for 205 points of damage.
+[Fri Jan 23 07:54:53 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:53 2026] Sigdis hit DPS Machine for 24302 points of non-melee damage.
+[Fri Jan 23 07:54:53 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:53 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:53 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:53 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:53 2026] DPS Machine kicks Sigdis for 187 points of damage.
+[Fri Jan 23 07:54:55 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:55 2026] DPS Machine hits Sigdis for 194 points of damage.
+[Fri Jan 23 07:54:55 2026] Sigdis tries to crush DPS Machine, but DPS Machine ripostes!
+[Fri Jan 23 07:54:56 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:56 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:56 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:56 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:54:56 2026] Sigdis hit DPS Machine for 22741 points of non-melee damage.
+[Fri Jan 23 07:54:56 2026] Sigdis delivers a critical blast! (39234)
+[Fri Jan 23 07:54:56 2026] Sigdis hit DPS Machine for 39234 points of non-melee damage.
+[Fri Jan 23 07:54:56 2026] Sigdis delivers a critical blast! (37434)
+[Fri Jan 23 07:54:56 2026] Sigdis hit DPS Machine for 37434 points of non-melee damage.
+[Fri Jan 23 07:54:56 2026] Sigdis hit DPS Machine for 19092 points of non-melee damage.
+[Fri Jan 23 07:54:56 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:58 2026] Sigdis hit DPS Machine for 28315 points of non-melee damage.
+[Fri Jan 23 07:54:58 2026] Sigdis delivers a critical blast! (51722)
+[Fri Jan 23 07:54:58 2026] Sigdis hit DPS Machine for 51722 points of non-melee damage.
+[Fri Jan 23 07:54:58 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:54:59 2026] Sigdis hit DPS Machine for 25047 points of non-melee damage.
+[Fri Jan 23 07:54:59 2026] Sigdis tries to crush DPS Machine, but DPS Machine parries!
+[Fri Jan 23 07:54:59 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:59 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:59 2026] DPS Machine hits Sigdis for 187 points of damage.
+[Fri Jan 23 07:54:59 2026] Sigdis delivers a critical blast! (37896)
+[Fri Jan 23 07:54:59 2026] Sigdis hit DPS Machine for 37896 points of non-melee damage.
+[Fri Jan 23 07:54:59 2026] Sigdis hit DPS Machine for 21404 points of non-melee damage.
+[Fri Jan 23 07:54:59 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:54:59 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:54:59 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:55:00 2026] Sigdis delivers a critical blast! (47910)
+[Fri Jan 23 07:55:00 2026] Sigdis hit DPS Machine for 47910 points of non-melee damage.
+[Fri Jan 23 07:55:00 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:55:01 2026] DPS Machine tries to kick Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:55:01 2026] Sigdis delivers a critical blast! (47366)
+[Fri Jan 23 07:55:01 2026] Sigdis hit DPS Machine for 47366 points of non-melee damage.
+[Fri Jan 23 07:55:01 2026] Sigdis tries to crush DPS Machine, but DPS Machine dodges!
+[Fri Jan 23 07:55:02 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:02 2026] DPS Machine hits Sigdis for 185 points of damage.
+[Fri Jan 23 07:55:02 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:02 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:55:02 2026] Sigdis delivers a critical blast! (44140)
+[Fri Jan 23 07:55:02 2026] Sigdis hit DPS Machine for 44140 points of non-melee damage.
+[Fri Jan 23 07:55:02 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:02 2026] DPS Machine hits Sigdis for 193 points of damage.
+[Fri Jan 23 07:55:02 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:55:02 2026] Sigdis hit DPS Machine for 18360 points of non-melee damage.
+[Fri Jan 23 07:55:02 2026] Sigdis delivers a critical blast! (39234)
+[Fri Jan 23 07:55:02 2026] Sigdis hit DPS Machine for 39234 points of non-melee damage.
+[Fri Jan 23 07:55:02 2026] Sigdis hit DPS Machine for 32265 points of non-melee damage.
+[Fri Jan 23 07:55:02 2026] Sigdis scores a critical hit! (222)
+[Fri Jan 23 07:55:02 2026] Sigdis crushes DPS Machine for 316 points of damage.
+[Fri Jan 23 07:55:04 2026] Sigdis hit DPS Machine for 26409 points of non-melee damage.
+[Fri Jan 23 07:55:04 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:55:05 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:55:05 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:05 2026] DPS Machine hits Sigdis for 200 points of damage.
+[Fri Jan 23 07:55:05 2026] Sigdis hit DPS Machine for 23633 points of non-melee damage.
+[Fri Jan 23 07:55:05 2026] DPS Machine tries to hit Sigdis, but misses!
+[Fri Jan 23 07:55:05 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:05 2026] DPS Machine hits Sigdis for 195 points of damage.
+[Fri Jan 23 07:55:05 2026] Sigdis delivers a critical blast! (45732)
+[Fri Jan 23 07:55:05 2026] Sigdis hit DPS Machine for 45732 points of non-melee damage.
+[Fri Jan 23 07:55:05 2026] Sigdis hit DPS Machine for 31037 points of non-melee damage.
+[Fri Jan 23 07:55:05 2026] Sigdis scores a critical hit! (367)
+[Fri Jan 23 07:55:05 2026] Sigdis crushes DPS Machine for 461 points of damage.
+[Fri Jan 23 07:55:06 2026] Sigdis delivers a critical blast! (50088)
+[Fri Jan 23 07:55:06 2026] Sigdis hit DPS Machine for 50088 points of non-melee damage.
+[Fri Jan 23 07:55:06 2026] Sigdis crushes DPS Machine for 176 points of damage.
+[Fri Jan 23 07:55:07 2026] Sigdis hit DPS Machine for 17100 points of non-melee damage.
+[Fri Jan 23 07:55:07 2026] Sigdis hit DPS Machine for 25320 points of non-melee damage.
+[Fri Jan 23 07:55:07 2026] Sigdis scores a critical hit! (222)
+[Fri Jan 23 07:55:07 2026] Sigdis crushes DPS Machine for 316 points of damage.
+[Fri Jan 23 07:55:08 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:08 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:55:08 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:55:08 2026] Sigdis delivers a critical blast! (37450)
+[Fri Jan 23 07:55:08 2026] Sigdis hit DPS Machine for 37450 points of non-melee damage.
+[Fri Jan 23 07:55:08 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:08 2026] DPS Machine hits Sigdis for 193 points of damage.
+[Fri Jan 23 07:55:08 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:55:09 2026] Sigdis hit DPS Machine for 22320 points of non-melee damage.
+[Fri Jan 23 07:55:09 2026] Sigdis delivers a critical blast! (34194)
+[Fri Jan 23 07:55:09 2026] Sigdis hit DPS Machine for 34194 points of non-melee damage.
+[Fri Jan 23 07:55:09 2026] Sigdis tries to crush DPS Machine, but DPS Machine parries!
+[Fri Jan 23 07:55:09 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:09 2026] DPS Machine kicks Sigdis for 202 points of damage.
+[Fri Jan 23 07:55:10 2026] Sigdis scores a critical hit! (105)
+[Fri Jan 23 07:55:10 2026] Sigdis crushes DPS Machine for 199 points of damage.
+[Fri Jan 23 07:55:11 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:55:11 2026] DPS Machine hits Sigdis for 194 points of damage.
+[Fri Jan 23 07:55:11 2026] Sigdis delivers a critical blast! (50382)
+[Fri Jan 23 07:55:11 2026] Sigdis hit DPS Machine for 50382 points of non-melee damage.
+[Fri Jan 23 07:55:11 2026] Sigdis hit DPS Machine for 22518 points of non-melee damage.
+[Fri Jan 23 07:55:11 2026] DPS Machine tries to hit Sigdis, but misses!
+[Fri Jan 23 07:55:11 2026] DPS Machine tries to hit Sigdis, but misses!
+[Fri Jan 23 07:55:13 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:55:13 2026] Sigdis delivers a critical blast! (53950)
+[Fri Jan 23 07:55:13 2026] Sigdis hit DPS Machine for 53950 points of non-melee damage.
+[Fri Jan 23 07:55:13 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:55:24 2026] DPS Machine regards you indifferently -- looks like quite a gamble.
+[Fri Jan 23 07:55:26 2026] You no longer have a target.
+[Fri Jan 23 07:56:15 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:15 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:15 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:15 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:15 2026] Sigdis delivers a critical blast! (48152)
+[Fri Jan 23 07:56:15 2026] Sigdis hit DPS Machine for 48152 points of non-melee damage.
+[Fri Jan 23 07:56:15 2026] Sigdis delivers a critical blast! (44140)
+[Fri Jan 23 07:56:15 2026] Sigdis hit DPS Machine for 44140 points of non-melee damage.
+[Fri Jan 23 07:56:15 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:15 2026] DPS Machine hits Sigdis for 189 points of damage.
+[Fri Jan 23 07:56:15 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:15 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:15 2026] DPS Machine tries to kick Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:15 2026] Sigdis hit DPS Machine for 21236 points of non-melee damage.
+[Fri Jan 23 07:56:15 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:16 2026] Sigdis delivers a critical blast! (42834)
+[Fri Jan 23 07:56:16 2026] Sigdis hit DPS Machine for 42834 points of non-melee damage.
+[Fri Jan 23 07:56:16 2026] Sigdis delivers a critical blast! (44644)
+[Fri Jan 23 07:56:16 2026] Sigdis hit DPS Machine for 44644 points of non-melee damage.
+[Fri Jan 23 07:56:16 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:17 2026] Auto attack is on.
+[Fri Jan 23 07:56:18 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:18 2026] Sigdis delivers a critical blast! (50382)
+[Fri Jan 23 07:56:18 2026] Sigdis hit DPS Machine for 50382 points of non-melee damage.
+[Fri Jan 23 07:56:18 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:18 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:18 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:18 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:18 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:18 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:18 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:56:18 2026] You pierce DPS Machine for 7707 points of damage.
+[Fri Jan 23 07:56:18 2026] You pierce DPS Machine for 2199 points of damage.
+[Fri Jan 23 07:56:18 2026] You pierce DPS Machine for 1173 points of damage.
+[Fri Jan 23 07:56:18 2026] Sigdis delivers a critical blast! (53356)
+[Fri Jan 23 07:56:18 2026] Sigdis hit DPS Machine for 53356 points of non-melee damage.
+[Fri Jan 23 07:56:18 2026] Sigdis delivers a critical blast! (56078)
+[Fri Jan 23 07:56:18 2026] Sigdis hit DPS Machine for 56078 points of non-melee damage.
+[Fri Jan 23 07:56:18 2026] Sigdis crushes DPS Machine for 164 points of damage.
+[Fri Jan 23 07:56:19 2026] You pierce DPS Machine for 2304 points of damage.
+[Fri Jan 23 07:56:19 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:19 2026] Emberval scores a critical hit! (7371)
+[Fri Jan 23 07:56:19 2026] You pierce DPS Machine for 7472 points of damage.
+[Fri Jan 23 07:56:19 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:19 2026] Sigdis hit DPS Machine for 17460 points of non-melee damage.
+[Fri Jan 23 07:56:19 2026] Sigdis hit DPS Machine for 21508 points of non-melee damage.
+[Fri Jan 23 07:56:19 2026] Sigdis hit DPS Machine for 29948 points of non-melee damage.
+[Fri Jan 23 07:56:19 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:19 2026] Emberval scores a critical hit! (3643)
+[Fri Jan 23 07:56:19 2026] You pierce DPS Machine for 3744 points of damage.
+[Fri Jan 23 07:56:19 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:56:19 2026] You pierce DPS Machine for 6150 points of damage.
+[Fri Jan 23 07:56:19 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:19 2026] Your target resisted the Bite of the Shissar Poison Strike VII spell.
+[Fri Jan 23 07:56:19 2026] Emberval scores a critical hit! (5179)
+[Fri Jan 23 07:56:19 2026] You pierce DPS Machine for 5280 points of damage.
+[Fri Jan 23 07:56:19 2026] Emberval scores a critical hit! (4962)
+[Fri Jan 23 07:56:19 2026] You pierce DPS Machine for 5063 points of damage.
+[Fri Jan 23 07:56:20 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:56:20 2026] You pierce DPS Machine for 6943 points of damage.
+[Fri Jan 23 07:56:20 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:20 2026] Sigdis hit DPS Machine for 19620 points of non-melee damage.
+[Fri Jan 23 07:56:20 2026] Sigdis hit DPS Machine for 19080 points of non-melee damage.
+[Fri Jan 23 07:56:20 2026] Sigdis hit DPS Machine for 33760 points of non-melee damage.
+[Fri Jan 23 07:56:20 2026] Sigdis hit DPS Machine for 20691 points of non-melee damage.
+[Fri Jan 23 07:56:20 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:20 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:20 2026] You deliver a critical blast! (20092)
+[Fri Jan 23 07:56:20 2026] Emberval hit DPS Machine for 20092 points of non-melee damage.
+[Fri Jan 23 07:56:20 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:20 2026] Emberval scores a critical hit! (2277)
+[Fri Jan 23 07:56:20 2026] You pierce DPS Machine for 2378 points of damage.
+[Fri Jan 23 07:56:20 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:20 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:20 2026] Sigdis hit DPS Machine for 24302 points of non-melee damage.
+[Fri Jan 23 07:56:20 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:20 2026] DPS Machine hits Sigdis for 196 points of damage.
+[Fri Jan 23 07:56:21 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:21 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:56:21 2026] You pierce DPS Machine for 6150 points of damage.
+[Fri Jan 23 07:56:21 2026] You pierce DPS Machine for 1151 points of damage.
+[Fri Jan 23 07:56:21 2026] You pierce DPS Machine for 2472 points of damage.
+[Fri Jan 23 07:56:21 2026] Emberval scores a critical hit! (7231)
+[Fri Jan 23 07:56:21 2026] You pierce DPS Machine for 7332 points of damage.
+[Fri Jan 23 07:56:21 2026] Sigdis hit DPS Machine for 25320 points of non-melee damage.
+[Fri Jan 23 07:56:21 2026] Sigdis scores a critical hit! (222)
+[Fri Jan 23 07:56:21 2026] Sigdis crushes DPS Machine for 316 points of damage.
+[Fri Jan 23 07:56:22 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:22 2026] Emberval scores a critical hit! (6656)
+[Fri Jan 23 07:56:22 2026] You pierce DPS Machine for 6757 points of damage.
+[Fri Jan 23 07:56:22 2026] You deliver a critical blast! (3298)
+[Fri Jan 23 07:56:22 2026] Emberval hit DPS Machine for 3298 points of non-melee damage.
+[Fri Jan 23 07:56:22 2026] DPS Machine screams in agony.
+[Fri Jan 23 07:56:22 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:22 2026] Emberval scores a critical hit! (7231)
+[Fri Jan 23 07:56:22 2026] You pierce DPS Machine for 7332 points of damage.
+[Fri Jan 23 07:56:23 2026] Sigdis delivers a critical blast! (42474)
+[Fri Jan 23 07:56:23 2026] Sigdis hit DPS Machine for 42474 points of non-melee damage.
+[Fri Jan 23 07:56:23 2026] Sigdis hit DPS Machine for 31854 points of non-melee damage.
+[Fri Jan 23 07:56:23 2026] Sigdis tries to crush DPS Machine, but DPS Machine dodges!
+[Fri Jan 23 07:56:23 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:23 2026] DPS Machine kicks Sigdis for 187 points of damage.
+[Fri Jan 23 07:56:23 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:23 2026] Emberval hit DPS Machine for 13931 points of non-melee damage.
+[Fri Jan 23 07:56:23 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:23 2026] Emberval scores a critical hit! (5205)
+[Fri Jan 23 07:56:23 2026] You pierce DPS Machine for 5306 points of damage.
+[Fri Jan 23 07:56:23 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:23 2026] Emberval scores a critical hit! (2104)
+[Fri Jan 23 07:56:23 2026] You pierce DPS Machine for 2205 points of damage.
+[Fri Jan 23 07:56:23 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:23 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:23 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:23 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:23 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:23 2026] DPS Machine hits Sigdis for 190 points of damage.
+[Fri Jan 23 07:56:23 2026] Sigdis delivers a critical blast! (39234)
+[Fri Jan 23 07:56:23 2026] Sigdis hit DPS Machine for 39234 points of non-melee damage.
+[Fri Jan 23 07:56:23 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:23 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:23 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:24 2026] Emberval scores a critical hit! (3941)
+[Fri Jan 23 07:56:24 2026] You pierce DPS Machine for 4042 points of damage.
+[Fri Jan 23 07:56:24 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:24 2026] Sigdis hit DPS Machine for 15480 points of non-melee damage.
+[Fri Jan 23 07:56:24 2026] Sigdis delivers a critical blast! (36714)
+[Fri Jan 23 07:56:24 2026] Sigdis hit DPS Machine for 36714 points of non-melee damage.
+[Fri Jan 23 07:56:24 2026] Sigdis hit DPS Machine for 28315 points of non-melee damage.
+[Fri Jan 23 07:56:24 2026] Sigdis crushes DPS Machine for 214 points of damage.
+[Fri Jan 23 07:56:24 2026] Emberval hit DPS Machine for 1152 points of non-melee damage.
+[Fri Jan 23 07:56:24 2026] DPS Machine screams in agony.
+[Fri Jan 23 07:56:24 2026] You pierce DPS Machine for 2411 points of damage.
+[Fri Jan 23 07:56:24 2026] Emberval scores a critical hit! (2153)
+[Fri Jan 23 07:56:24 2026] You pierce DPS Machine for 2254 points of damage.
+[Fri Jan 23 07:56:24 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:24 2026] Emberval hit DPS Machine for 5937 points of non-melee damage.
+[Fri Jan 23 07:56:24 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:24 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:24 2026] You pierce DPS Machine for 705 points of damage.
+[Fri Jan 23 07:56:25 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:25 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:25 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:25 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:25 2026] Emberval scores a critical hit! (1947)
+[Fri Jan 23 07:56:25 2026] You pierce DPS Machine for 2048 points of damage.
+[Fri Jan 23 07:56:25 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:26 2026] Emberval scores a critical hit! (4943)
+[Fri Jan 23 07:56:26 2026] You pierce DPS Machine for 5044 points of damage.
+[Fri Jan 23 07:56:26 2026] Emberval scores a critical hit! (1475)
+[Fri Jan 23 07:56:26 2026] You pierce DPS Machine for 1576 points of damage.
+[Fri Jan 23 07:56:26 2026] Emberval scores a critical hit! (6467)
+[Fri Jan 23 07:56:26 2026] You pierce DPS Machine for 6568 points of damage.
+[Fri Jan 23 07:56:26 2026] You pierce DPS Machine for 561 points of damage.
+[Fri Jan 23 07:56:26 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:26 2026] Sigdis hit DPS Machine for 26532 points of non-melee damage.
+[Fri Jan 23 07:56:26 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:26 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:26 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:26 2026] Sigdis hit DPS Machine for 23414 points of non-melee damage.
+[Fri Jan 23 07:56:26 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:27 2026] Your target resisted the Shock of Poison spell.
+[Fri Jan 23 07:56:27 2026] You pierce DPS Machine for 2562 points of damage.
+[Fri Jan 23 07:56:27 2026] Emberval scores a critical hit! (2293)
+[Fri Jan 23 07:56:27 2026] You pierce DPS Machine for 2394 points of damage.
+[Fri Jan 23 07:56:27 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:27 2026] Emberval scores a critical hit! (5484)
+[Fri Jan 23 07:56:27 2026] You pierce DPS Machine for 5585 points of damage.
+[Fri Jan 23 07:56:27 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:27 2026] Emberval hit DPS Machine for 14844 points of non-melee damage.
+[Fri Jan 23 07:56:27 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:27 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:27 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:56:27 2026] You pierce DPS Machine for 7707 points of damage.
+[Fri Jan 23 07:56:27 2026] Emberval scores a critical hit! (7417)
+[Fri Jan 23 07:56:27 2026] You pierce DPS Machine for 7518 points of damage.
+[Fri Jan 23 07:56:28 2026] Sigdis delivers a critical blast! (37794)
+[Fri Jan 23 07:56:28 2026] Sigdis hit DPS Machine for 37794 points of non-melee damage.
+[Fri Jan 23 07:56:28 2026] Sigdis hit DPS Machine for 17820 points of non-melee damage.
+[Fri Jan 23 07:56:28 2026] Sigdis delivers a critical blast! (40832)
+[Fri Jan 23 07:56:28 2026] Sigdis hit DPS Machine for 40832 points of non-melee damage.
+[Fri Jan 23 07:56:28 2026] Sigdis scores a critical hit! (266)
+[Fri Jan 23 07:56:28 2026] Sigdis crushes DPS Machine for 360 points of damage.
+[Fri Jan 23 07:56:28 2026] Emberval scores a critical hit! (5742)
+[Fri Jan 23 07:56:28 2026] You pierce DPS Machine for 5843 points of damage.
+[Fri Jan 23 07:56:28 2026] Emberval scores a critical hit! (1857)
+[Fri Jan 23 07:56:28 2026] You pierce DPS Machine for 1958 points of damage.
+[Fri Jan 23 07:56:28 2026] You pierce DPS Machine for 843 points of damage.
+[Fri Jan 23 07:56:28 2026] You pierce DPS Machine for 1613 points of damage.
+[Fri Jan 23 07:56:28 2026] Emberval scores a critical hit! (1726)
+[Fri Jan 23 07:56:28 2026] You pierce DPS Machine for 1827 points of damage.
+[Fri Jan 23 07:56:29 2026] You pierce DPS Machine for 509 points of damage.
+[Fri Jan 23 07:56:29 2026] Emberval scores a critical hit! (2338)
+[Fri Jan 23 07:56:29 2026] You pierce DPS Machine for 2439 points of damage.
+[Fri Jan 23 07:56:29 2026] Sigdis hit DPS Machine for 30493 points of non-melee damage.
+[Fri Jan 23 07:56:29 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:56:29 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:29 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:29 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:29 2026] Sigdis hit DPS Machine for 24525 points of non-melee damage.
+[Fri Jan 23 07:56:29 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:29 2026] You pierce DPS Machine for 803 points of damage.
+[Fri Jan 23 07:56:29 2026] Emberval scores a critical hit! (2153)
+[Fri Jan 23 07:56:29 2026] You pierce DPS Machine for 2254 points of damage.
+[Fri Jan 23 07:56:29 2026] You pierce DPS Machine for 2411 points of damage.
+[Fri Jan 23 07:56:29 2026] Emberval scores a critical hit! (6139)
+[Fri Jan 23 07:56:29 2026] You pierce DPS Machine for 6240 points of damage.
+[Fri Jan 23 07:56:29 2026] Emberval scores a critical hit! (1312)
+[Fri Jan 23 07:56:29 2026] You pierce DPS Machine for 1413 points of damage.
+[Fri Jan 23 07:56:30 2026] Sigdis delivers a critical blast! (54446)
+[Fri Jan 23 07:56:30 2026] Sigdis hit DPS Machine for 54446 points of non-melee damage.
+[Fri Jan 23 07:56:30 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:30 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:56:30 2026] You pierce DPS Machine for 7707 points of damage.
+[Fri Jan 23 07:56:30 2026] Emberval scores a critical hit! (3778)
+[Fri Jan 23 07:56:30 2026] You pierce DPS Machine for 3879 points of damage.
+[Fri Jan 23 07:56:30 2026] Emberval scores a critical hit! (5484)
+[Fri Jan 23 07:56:30 2026] You pierce DPS Machine for 5585 points of damage.
+[Fri Jan 23 07:56:30 2026] You pierce DPS Machine for 2167 points of damage.
+[Fri Jan 23 07:56:31 2026] DPS Machine tries to kick Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:31 2026] You deliver a critical blast! (4834)
+[Fri Jan 23 07:56:31 2026] Emberval hit DPS Machine for 4834 points of non-melee damage.
+[Fri Jan 23 07:56:31 2026] DPS Machine screams in agony.
+[Fri Jan 23 07:56:31 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:31 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:56:31 2026] You pierce DPS Machine for 7707 points of damage.
+[Fri Jan 23 07:56:31 2026] You pierce DPS Machine for 1656 points of damage.
+[Fri Jan 23 07:56:31 2026] Emberval scores a critical hit! (1947)
+[Fri Jan 23 07:56:31 2026] You pierce DPS Machine for 2048 points of damage.
+[Fri Jan 23 07:56:31 2026] Sigdis delivers a critical blast! (47366)
+[Fri Jan 23 07:56:31 2026] Sigdis hit DPS Machine for 47366 points of non-melee damage.
+[Fri Jan 23 07:56:31 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:32 2026] Emberval hit DPS Machine for 960 points of non-melee damage.
+[Fri Jan 23 07:56:32 2026] DPS Machine screams in agony.
+[Fri Jan 23 07:56:32 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:32 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:32 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:32 2026] Emberval scores a critical hit! (7278)
+[Fri Jan 23 07:56:32 2026] You pierce DPS Machine for 7379 points of damage.
+[Fri Jan 23 07:56:32 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:32 2026] You pierce DPS Machine for 1422 points of damage.
+[Fri Jan 23 07:56:32 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:32 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:32 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:32 2026] Sigdis hit DPS Machine for 22296 points of non-melee damage.
+[Fri Jan 23 07:56:32 2026] Sigdis hit DPS Machine for 19397 points of non-melee damage.
+[Fri Jan 23 07:56:32 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:32 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:32 2026] Sigdis hit DPS Machine for 23414 points of non-melee damage.
+[Fri Jan 23 07:56:32 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:33 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:33 2026] You pierce DPS Machine for 2048 points of damage.
+[Fri Jan 23 07:56:33 2026] You pierce DPS Machine for 2562 points of damage.
+[Fri Jan 23 07:56:33 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:33 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:34 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:34 2026] Emberval scores a critical hit! (6027)
+[Fri Jan 23 07:56:34 2026] You pierce DPS Machine for 6128 points of damage.
+[Fri Jan 23 07:56:34 2026] Sigdis hit DPS Machine for 13532 points of non-melee damage.
+[Fri Jan 23 07:56:34 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:34 2026] Emberval scores a critical hit! (7516)
+[Fri Jan 23 07:56:34 2026] You pierce DPS Machine for 7617 points of damage.
+[Fri Jan 23 07:56:34 2026] Emberval scores a critical hit! (4196)
+[Fri Jan 23 07:56:34 2026] You pierce DPS Machine for 4297 points of damage.
+[Fri Jan 23 07:56:34 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:34 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:35 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:35 2026] Emberval hit DPS Machine for 13474 points of non-melee damage.
+[Fri Jan 23 07:56:35 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:35 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:35 2026] You pierce DPS Machine for 2501 points of damage.
+[Fri Jan 23 07:56:35 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:35 2026] Sigdis delivers a critical blast! (33474)
+[Fri Jan 23 07:56:35 2026] Sigdis hit DPS Machine for 33474 points of non-melee damage.
+[Fri Jan 23 07:56:35 2026] Sigdis hit DPS Machine for 31309 points of non-melee damage.
+[Fri Jan 23 07:56:35 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:35 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:35 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:35 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:56:35 2026] Sigdis delivers a critical blast! (39680)
+[Fri Jan 23 07:56:35 2026] Sigdis hit DPS Machine for 39680 points of non-melee damage.
+[Fri Jan 23 07:56:35 2026] Sigdis delivers a critical blast! (41018)
+[Fri Jan 23 07:56:35 2026] Sigdis hit DPS Machine for 41018 points of non-melee damage.
+[Fri Jan 23 07:56:35 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:35 2026] You pierce DPS Machine for 2048 points of damage.
+[Fri Jan 23 07:56:35 2026] Emberval scores a critical hit! (2947)
+[Fri Jan 23 07:56:35 2026] You pierce DPS Machine for 3048 points of damage.
+[Fri Jan 23 07:56:35 2026] Emberval scores a critical hit! (2048)
+[Fri Jan 23 07:56:35 2026] You pierce DPS Machine for 2149 points of damage.
+[Fri Jan 23 07:56:36 2026] Sigdis delivers a critical blast! (52812)
+[Fri Jan 23 07:56:36 2026] Sigdis hit DPS Machine for 52812 points of non-melee damage.
+[Fri Jan 23 07:56:36 2026] Sigdis crushes DPS Machine for 267 points of damage.
+[Fri Jan 23 07:56:36 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:36 2026] You deliver a critical blast! (20092)
+[Fri Jan 23 07:56:36 2026] Emberval hit DPS Machine for 20092 points of non-melee damage.
+[Fri Jan 23 07:56:36 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:36 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:36 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:56:36 2026] You pierce DPS Machine for 6150 points of damage.
+[Fri Jan 23 07:56:36 2026] Emberval scores a critical hit! (7188)
+[Fri Jan 23 07:56:36 2026] You pierce DPS Machine for 7289 points of damage.
+[Fri Jan 23 07:56:36 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:36 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:37 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:56:37 2026] You pierce DPS Machine for 6150 points of damage.
+[Fri Jan 23 07:56:37 2026] Emberval scores a critical hit! (6098)
+[Fri Jan 23 07:56:37 2026] You pierce DPS Machine for 6199 points of damage.
+[Fri Jan 23 07:56:37 2026] You deliver a critical blast! (5448)
+[Fri Jan 23 07:56:37 2026] Emberval hit DPS Machine for 5448 points of non-melee damage.
+[Fri Jan 23 07:56:37 2026] DPS Machine screams in agony.
+[Fri Jan 23 07:56:37 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:37 2026] Emberval scores a critical hit! (7371)
+[Fri Jan 23 07:56:37 2026] You pierce DPS Machine for 7472 points of damage.
+[Fri Jan 23 07:56:37 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:37 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:37 2026] Sigdis hit DPS Machine for 31854 points of non-melee damage.
+[Fri Jan 23 07:56:37 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:56:38 2026] Emberval hit DPS Machine for 2196 points of non-melee damage.
+[Fri Jan 23 07:56:38 2026] DPS Machine staggers.
+[Fri Jan 23 07:56:38 2026] Emberval scores a critical hit! (6656)
+[Fri Jan 23 07:56:38 2026] You pierce DPS Machine for 6757 points of damage.
+[Fri Jan 23 07:56:38 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:56:38 2026] You pierce DPS Machine for 6150 points of damage.
+[Fri Jan 23 07:56:38 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:56:38 2026] Sigdis hit DPS Machine for 27424 points of non-melee damage.
+[Fri Jan 23 07:56:38 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:38 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:38 2026] DPS Machine hits Sigdis for 190 points of damage.
+[Fri Jan 23 07:56:38 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:38 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:56:38 2026] You pierce DPS Machine for 7707 points of damage.
+[Fri Jan 23 07:56:38 2026] Sigdis hit DPS Machine for 31582 points of non-melee damage.
+[Fri Jan 23 07:56:38 2026] Sigdis delivers a critical blast! (63702)
+[Fri Jan 23 07:56:38 2026] Sigdis hit DPS Machine for 63702 points of non-melee damage.
+[Fri Jan 23 07:56:38 2026] Sigdis scores a critical hit! (459)
+[Fri Jan 23 07:56:38 2026] Sigdis crushes DPS Machine for 553 points of damage.
+[Fri Jan 23 07:56:39 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:56:39 2026] You pierce DPS Machine for 6943 points of damage.
+[Fri Jan 23 07:56:39 2026] You pierce DPS Machine for 1173 points of damage.
+[Fri Jan 23 07:56:39 2026] DPS Machine tries to bash Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:39 2026] You pierce DPS Machine for 2411 points of damage.
+[Fri Jan 23 07:56:39 2026] You pierce DPS Machine for 1559 points of damage.
+[Fri Jan 23 07:56:39 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:39 2026] Emberval hit DPS Machine for 7764 points of non-melee damage.
+[Fri Jan 23 07:56:39 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:39 2026] Emberval scores a critical hit! (3643)
+[Fri Jan 23 07:56:39 2026] You pierce DPS Machine for 3744 points of damage.
+[Fri Jan 23 07:56:39 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:40 2026] Sigdis delivers a critical blast! (32034)
+[Fri Jan 23 07:56:40 2026] Sigdis hit DPS Machine for 32034 points of non-melee damage.
+[Fri Jan 23 07:56:40 2026] Sigdis delivers a critical blast! (22866)
+[Fri Jan 23 07:56:40 2026] Sigdis hit DPS Machine for 22866 points of non-melee damage.
+[Fri Jan 23 07:56:40 2026] Sigdis scores a critical hit! (258)
+[Fri Jan 23 07:56:40 2026] Sigdis crushes DPS Machine for 352 points of damage.
+[Fri Jan 23 07:56:40 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:40 2026] Emberval scores a critical hit! (4196)
+[Fri Jan 23 07:56:40 2026] You pierce DPS Machine for 4297 points of damage.
+[Fri Jan 23 07:56:40 2026] You pierce DPS Machine for 1368 points of damage.
+[Fri Jan 23 07:56:40 2026] You pierce DPS Machine for 1467 points of damage.
+[Fri Jan 23 07:56:41 2026] DPS Machine tries to hit Sigdis, but misses!
+[Fri Jan 23 07:56:41 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:41 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:41 2026] Sigdis delivers a critical blast! (47706)
+[Fri Jan 23 07:56:41 2026] Sigdis hit DPS Machine for 47706 points of non-melee damage.
+[Fri Jan 23 07:56:41 2026] DPS Machine tries to hit Sigdis, but misses!
+[Fri Jan 23 07:56:41 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:41 2026] Emberval scores a critical hit! (2293)
+[Fri Jan 23 07:56:41 2026] You pierce DPS Machine for 2394 points of damage.
+[Fri Jan 23 07:56:41 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:41 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:41 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:41 2026] Sigdis delivers a critical blast! (39594)
+[Fri Jan 23 07:56:41 2026] Sigdis hit DPS Machine for 39594 points of non-melee damage.
+[Fri Jan 23 07:56:41 2026] Sigdis hit DPS Machine for 4004 points of non-melee damage.
+[Fri Jan 23 07:56:41 2026] Sigdis hit DPS Machine for 27498 points of non-melee damage.
+[Fri Jan 23 07:56:41 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:41 2026] Sigdis tries to crush DPS Machine, but DPS Machine ripostes!
+[Fri Jan 23 07:56:41 2026] You deliver a critical blast! (3020)
+[Fri Jan 23 07:56:41 2026] Emberval hit DPS Machine for 3020 points of non-melee damage.
+[Fri Jan 23 07:56:41 2026] DPS Machine staggers.
+[Fri Jan 23 07:56:41 2026] Emberval scores a critical hit! (3125)
+[Fri Jan 23 07:56:41 2026] You pierce DPS Machine for 3226 points of damage.
+[Fri Jan 23 07:56:41 2026] Emberval scores a critical hit! (6377)
+[Fri Jan 23 07:56:41 2026] You pierce DPS Machine for 6478 points of damage.
+[Fri Jan 23 07:56:42 2026] Emberval hit DPS Machine for 1190 points of non-melee damage.
+[Fri Jan 23 07:56:42 2026] DPS Machine screams in agony.
+[Fri Jan 23 07:56:42 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:42 2026] You deliver a critical blast! (20766)
+[Fri Jan 23 07:56:42 2026] Emberval hit DPS Machine for 20766 points of non-melee damage.
+[Fri Jan 23 07:56:42 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:42 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:42 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:42 2026] Emberval scores a critical hit! (6278)
+[Fri Jan 23 07:56:42 2026] You pierce DPS Machine for 6379 points of damage.
+[Fri Jan 23 07:56:42 2026] You pierce DPS Machine for 1656 points of damage.
+[Fri Jan 23 07:56:42 2026] Sigdis hit DPS Machine for 25592 points of non-melee damage.
+[Fri Jan 23 07:56:42 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:43 2026] You pierce DPS Machine for 2441 points of damage.
+[Fri Jan 23 07:56:43 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:56:43 2026] You pierce DPS Machine for 7707 points of damage.
+[Fri Jan 23 07:56:43 2026] You pierce DPS Machine for 2273 points of damage.
+[Fri Jan 23 07:56:43 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:43 2026] Sigdis delivers a critical blast! (49544)
+[Fri Jan 23 07:56:43 2026] Sigdis hit DPS Machine for 49544 points of non-melee damage.
+[Fri Jan 23 07:56:43 2026] Sigdis hit DPS Machine for 22597 points of non-melee damage.
+[Fri Jan 23 07:56:43 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:43 2026] You pierce DPS Machine for 2472 points of damage.
+[Fri Jan 23 07:56:43 2026] You pierce DPS Machine for 2411 points of damage.
+[Fri Jan 23 07:56:44 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:44 2026] You pierce DPS Machine for 2048 points of damage.
+[Fri Jan 23 07:56:44 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:44 2026] Sigdis hit DPS Machine for 26086 points of non-melee damage.
+[Fri Jan 23 07:56:44 2026] Sigdis hit DPS Machine for 25417 points of non-melee damage.
+[Fri Jan 23 07:56:44 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:44 2026] DPS Machine tries to hit Sigdis, but misses!
+[Fri Jan 23 07:56:44 2026] Emberval scores a critical hit! (7516)
+[Fri Jan 23 07:56:44 2026] You pierce DPS Machine for 7617 points of damage.
+[Fri Jan 23 07:56:44 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:44 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:44 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:44 2026] Emberval scores a critical hit! (6418)
+[Fri Jan 23 07:56:44 2026] You pierce DPS Machine for 6519 points of damage.
+[Fri Jan 23 07:56:44 2026] You pierce DPS Machine for 682 points of damage.
+[Fri Jan 23 07:56:45 2026] Sigdis hit DPS Machine for 13860 points of non-melee damage.
+[Fri Jan 23 07:56:45 2026] Sigdis delivers a critical blast! (40832)
+[Fri Jan 23 07:56:45 2026] Sigdis hit DPS Machine for 40832 points of non-melee damage.
+[Fri Jan 23 07:56:45 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:45 2026] You pierce DPS Machine for 1491 points of damage.
+[Fri Jan 23 07:56:45 2026] You pierce DPS Machine for 2562 points of damage.
+[Fri Jan 23 07:56:45 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:45 2026] Emberval hit DPS Machine for 7308 points of non-melee damage.
+[Fri Jan 23 07:56:45 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:45 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:45 2026] You pierce DPS Machine for 2086 points of damage.
+[Fri Jan 23 07:56:46 2026] Sigdis hit DPS Machine for 15480 points of non-melee damage.
+[Fri Jan 23 07:56:46 2026] Sigdis delivers a critical blast! (57712)
+[Fri Jan 23 07:56:46 2026] Sigdis hit DPS Machine for 57712 points of non-melee damage.
+[Fri Jan 23 07:56:46 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:46 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:46 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:46 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:46 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:46 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:46 2026] Emberval scores a critical hit! (3643)
+[Fri Jan 23 07:56:46 2026] You pierce DPS Machine for 3744 points of damage.
+[Fri Jan 23 07:56:46 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:47 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:47 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:47 2026] Sigdis hit DPS Machine for 24079 points of non-melee damage.
+[Fri Jan 23 07:56:47 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:47 2026] DPS Machine hits Sigdis for 191 points of damage.
+[Fri Jan 23 07:56:47 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:47 2026] DPS Machine kicks Sigdis for 187 points of damage.
+[Fri Jan 23 07:56:47 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:47 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:47 2026] Emberval scores a critical hit! (2293)
+[Fri Jan 23 07:56:47 2026] You pierce DPS Machine for 2394 points of damage.
+[Fri Jan 23 07:56:47 2026] Emberval scores a critical hit! (5179)
+[Fri Jan 23 07:56:47 2026] You pierce DPS Machine for 5280 points of damage.
+[Fri Jan 23 07:56:47 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:47 2026] Emberval scores a critical hit! (6489)
+[Fri Jan 23 07:56:47 2026] You pierce DPS Machine for 6590 points of damage.
+[Fri Jan 23 07:56:48 2026] Emberval scores a critical hit! (3175)
+[Fri Jan 23 07:56:48 2026] You pierce DPS Machine for 3276 points of damage.
+[Fri Jan 23 07:56:48 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:48 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:48 2026] You deliver a critical blast! (31968)
+[Fri Jan 23 07:56:48 2026] Emberval hit DPS Machine for 31968 points of non-melee damage.
+[Fri Jan 23 07:56:48 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:48 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:48 2026] You pierce DPS Machine for 2427 points of damage.
+[Fri Jan 23 07:56:49 2026] Emberval scores a critical hit! (5742)
+[Fri Jan 23 07:56:49 2026] You pierce DPS Machine for 5843 points of damage.
+[Fri Jan 23 07:56:49 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:49 2026] Sigdis hit DPS Machine for 20340 points of non-melee damage.
+[Fri Jan 23 07:56:49 2026] Sigdis delivers a critical blast! (31408)
+[Fri Jan 23 07:56:49 2026] Sigdis hit DPS Machine for 31408 points of non-melee damage.
+[Fri Jan 23 07:56:49 2026] Sigdis hit DPS Machine for 28042 points of non-melee damage.
+[Fri Jan 23 07:56:49 2026] Sigdis crushes DPS Machine for 241 points of damage.
+[Fri Jan 23 07:56:49 2026] Emberval scores a critical hit! (5715)
+[Fri Jan 23 07:56:49 2026] You pierce DPS Machine for 5816 points of damage.
+[Fri Jan 23 07:56:49 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:50 2026] Emberval scores a critical hit! (1814)
+[Fri Jan 23 07:56:50 2026] You pierce DPS Machine for 1915 points of damage.
+[Fri Jan 23 07:56:50 2026] You pierce DPS Machine for 1076 points of damage.
+[Fri Jan 23 07:56:50 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:50 2026] Sigdis hit DPS Machine for 19397 points of non-melee damage.
+[Fri Jan 23 07:56:50 2026] Sigdis hit DPS Machine for 23856 points of non-melee damage.
+[Fri Jan 23 07:56:50 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:50 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:50 2026] Emberval hit DPS Machine for 8906 points of non-melee damage.
+[Fri Jan 23 07:56:50 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:50 2026] You pierce DPS Machine for 1853 points of damage.
+[Fri Jan 23 07:56:50 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:50 2026] Sigdis delivers a critical blast! (36714)
+[Fri Jan 23 07:56:50 2026] Sigdis hit DPS Machine for 36714 points of non-melee damage.
+[Fri Jan 23 07:56:50 2026] Sigdis delivers a critical blast! (64246)
+[Fri Jan 23 07:56:50 2026] Sigdis hit DPS Machine for 64246 points of non-melee damage.
+[Fri Jan 23 07:56:50 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:56:50 2026] You pierce DPS Machine for 2167 points of damage.
+[Fri Jan 23 07:56:50 2026] Emberval scores a critical hit! (3941)
+[Fri Jan 23 07:56:50 2026] You pierce DPS Machine for 4042 points of damage.
+[Fri Jan 23 07:56:51 2026] Emberval scores a critical hit! (1546)
+[Fri Jan 23 07:56:51 2026] You pierce DPS Machine for 1647 points of damage.
+[Fri Jan 23 07:56:51 2026] You pierce DPS Machine for 2533 points of damage.
+[Fri Jan 23 07:56:51 2026] Emberval scores a critical hit! (7557)
+[Fri Jan 23 07:56:51 2026] You pierce DPS Machine for 7658 points of damage.
+[Fri Jan 23 07:56:51 2026] Emberval scores a critical hit! (3488)
+[Fri Jan 23 07:56:51 2026] You pierce DPS Machine for 3589 points of damage.
+[Fri Jan 23 07:56:51 2026] Emberval scores a critical hit! (3941)
+[Fri Jan 23 07:56:51 2026] You pierce DPS Machine for 4042 points of damage.
+[Fri Jan 23 07:56:51 2026] Sigdis delivers a critical blast! (15546)
+[Fri Jan 23 07:56:51 2026] Sigdis hit DPS Machine for 15546 points of non-melee damage.
+[Fri Jan 23 07:56:51 2026] Sigdis hit DPS Machine for 30493 points of non-melee damage.
+[Fri Jan 23 07:56:51 2026] Sigdis tries to crush DPS Machine, but DPS Machine parries!
+[Fri Jan 23 07:56:51 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:51 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:52 2026] Emberval hit DPS Machine for 1440 points of non-melee damage.
+[Fri Jan 23 07:56:52 2026] DPS Machine staggers.
+[Fri Jan 23 07:56:52 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:56:52 2026] You pierce DPS Machine for 6150 points of damage.
+[Fri Jan 23 07:56:52 2026] Emberval scores a critical hit! (6278)
+[Fri Jan 23 07:56:52 2026] You pierce DPS Machine for 6379 points of damage.
+[Fri Jan 23 07:56:52 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:52 2026] Emberval hit DPS Machine for 11190 points of non-melee damage.
+[Fri Jan 23 07:56:52 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:52 2026] Emberval scores a critical hit! (5715)
+[Fri Jan 23 07:56:52 2026] You pierce DPS Machine for 5816 points of damage.
+[Fri Jan 23 07:56:52 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:52 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:52 2026] Sigdis hit DPS Machine for 30765 points of non-melee damage.
+[Fri Jan 23 07:56:52 2026] Sigdis delivers a critical blast! (55534)
+[Fri Jan 23 07:56:52 2026] Sigdis hit DPS Machine for 55534 points of non-melee damage.
+[Fri Jan 23 07:56:52 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:53 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:56:53 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:53 2026] Sigdis delivers a critical blast! (51274)
+[Fri Jan 23 07:56:53 2026] Sigdis hit DPS Machine for 51274 points of non-melee damage.
+[Fri Jan 23 07:56:53 2026] Sigdis delivers a critical blast! (54396)
+[Fri Jan 23 07:56:53 2026] Sigdis hit DPS Machine for 54396 points of non-melee damage.
+[Fri Jan 23 07:56:53 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:53 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:53 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:53 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:53 2026] Emberval hit DPS Machine for 6623 points of non-melee damage.
+[Fri Jan 23 07:56:53 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:53 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:53 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:53 2026] Emberval hit DPS Machine for 1344 points of non-melee damage.
+[Fri Jan 23 07:56:53 2026] DPS Machine screams in agony.
+[Fri Jan 23 07:56:53 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:53 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:53 2026] Emberval scores a critical hit! (7606)
+[Fri Jan 23 07:56:53 2026] You pierce DPS Machine for 7707 points of damage.
+[Fri Jan 23 07:56:54 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:54 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:54 2026] Sigdis hit DPS Machine for 13500 points of non-melee damage.
+[Fri Jan 23 07:56:54 2026] Sigdis hit DPS Machine for 27226 points of non-melee damage.
+[Fri Jan 23 07:56:54 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:54 2026] You pierce DPS Machine for 2411 points of damage.
+[Fri Jan 23 07:56:54 2026] Emberval scores a critical hit! (4196)
+[Fri Jan 23 07:56:54 2026] You pierce DPS Machine for 4297 points of damage.
+[Fri Jan 23 07:56:54 2026] Emberval scores a critical hit! (6049)
+[Fri Jan 23 07:56:54 2026] You pierce DPS Machine for 6150 points of damage.
+[Fri Jan 23 07:56:54 2026] You pierce DPS Machine for 2304 points of damage.
+[Fri Jan 23 07:56:55 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:55 2026] DPS Machine bashes Sigdis for 184 points of damage.
+[Fri Jan 23 07:56:55 2026] Sigdis delivers a critical blast! (52266)
+[Fri Jan 23 07:56:55 2026] Sigdis hit DPS Machine for 52266 points of non-melee damage.
+[Fri Jan 23 07:56:55 2026] Sigdis crushes DPS Machine for 359 points of damage.
+[Fri Jan 23 07:56:55 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:55 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:55 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:56:55 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:55 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:55 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:55 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:55 2026] Sigdis delivers a critical blast! (41910)
+[Fri Jan 23 07:56:55 2026] Sigdis hit DPS Machine for 41910 points of non-melee damage.
+[Fri Jan 23 07:56:56 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:56 2026] Emberval scores a critical hit! (7278)
+[Fri Jan 23 07:56:56 2026] You pierce DPS Machine for 7379 points of damage.
+[Fri Jan 23 07:56:56 2026] Sigdis hit DPS Machine for 14940 points of non-melee damage.
+[Fri Jan 23 07:56:56 2026] Sigdis delivers a critical blast! (28074)
+[Fri Jan 23 07:56:56 2026] Sigdis hit DPS Machine for 28074 points of non-melee damage.
+[Fri Jan 23 07:56:56 2026] Sigdis hit DPS Machine for 32086 points of non-melee damage.
+[Fri Jan 23 07:56:56 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:56:56 2026] You deliver a critical blast! (2444)
+[Fri Jan 23 07:56:56 2026] Emberval hit DPS Machine for 2444 points of non-melee damage.
+[Fri Jan 23 07:56:56 2026] DPS Machine staggers.
+[Fri Jan 23 07:56:56 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:56:56 2026] You pierce DPS Machine for 6943 points of damage.
+[Fri Jan 23 07:56:56 2026] Emberval scores a critical hit! (6139)
+[Fri Jan 23 07:56:56 2026] You pierce DPS Machine for 6240 points of damage.
+[Fri Jan 23 07:56:57 2026] You pierce DPS Machine for 2533 points of damage.
+[Fri Jan 23 07:56:57 2026] You pierce DPS Machine for 807 points of damage.
+[Fri Jan 23 07:56:57 2026] Emberval scores a critical hit! (6703)
+[Fri Jan 23 07:56:57 2026] You pierce DPS Machine for 6804 points of damage.
+[Fri Jan 23 07:56:57 2026] Emberval scores a critical hit! (5134)
+[Fri Jan 23 07:56:57 2026] You pierce DPS Machine for 5235 points of damage.
+[Fri Jan 23 07:56:57 2026] Sigdis hit DPS Machine for 17640 points of non-melee damage.
+[Fri Jan 23 07:56:57 2026] Sigdis hit DPS Machine for 16740 points of non-melee damage.
+[Fri Jan 23 07:56:57 2026] Sigdis hit DPS Machine for 9846 points of non-melee damage.
+[Fri Jan 23 07:56:57 2026] Sigdis crushes DPS Machine for 320 points of damage.
+[Fri Jan 23 07:56:58 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:58 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:58 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:58 2026] Emberval scores a critical hit! (4945)
+[Fri Jan 23 07:56:58 2026] You pierce DPS Machine for 5046 points of damage.
+[Fri Jan 23 07:56:58 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:58 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:56:58 2026] DPS Machine hits Sigdis for 190 points of damage.
+[Fri Jan 23 07:56:58 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:58 2026] Sigdis delivers a critical blast! (44586)
+[Fri Jan 23 07:56:58 2026] Sigdis hit DPS Machine for 44586 points of non-melee damage.
+[Fri Jan 23 07:56:58 2026] Sigdis hit DPS Machine for 22296 points of non-melee damage.
+[Fri Jan 23 07:56:58 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:56:58 2026] DPS Machine tries to hit Sigdis, but Sigdis blocks!
+[Fri Jan 23 07:56:58 2026] Emberval scores a critical hit! (2153)
+[Fri Jan 23 07:56:58 2026] You pierce DPS Machine for 2254 points of damage.
+[Fri Jan 23 07:56:58 2026] Emberval scores a critical hit! (7327)
+[Fri Jan 23 07:56:58 2026] You pierce DPS Machine for 7428 points of damage.
+[Fri Jan 23 07:56:58 2026] Emberval scores a critical hit! (5501)
+[Fri Jan 23 07:56:58 2026] You pierce DPS Machine for 5602 points of damage.
+[Fri Jan 23 07:56:59 2026] Sigdis delivers a critical blast! (60980)
+[Fri Jan 23 07:56:59 2026] Sigdis hit DPS Machine for 60980 points of non-melee damage.
+[Fri Jan 23 07:56:59 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:56:59 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:59 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:56:59 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:56:59 2026] Emberval hit DPS Machine for 9820 points of non-melee damage.
+[Fri Jan 23 07:56:59 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:56:59 2026] You pierce DPS Machine for 2546 points of damage.
+[Fri Jan 23 07:56:59 2026] Emberval scores a critical hit! (7138)
+[Fri Jan 23 07:56:59 2026] You pierce DPS Machine for 7239 points of damage.
+[Fri Jan 23 07:57:00 2026] You pierce DPS Machine for 2167 points of damage.
+[Fri Jan 23 07:57:00 2026] Emberval scores a critical hit! (4973)
+[Fri Jan 23 07:57:00 2026] You pierce DPS Machine for 5074 points of damage.
+[Fri Jan 23 07:57:00 2026] Sigdis hit DPS Machine for 28445 points of non-melee damage.
+[Fri Jan 23 07:57:00 2026] Sigdis crushes DPS Machine for 220 points of damage.
+[Fri Jan 23 07:57:00 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:57:00 2026] You deliver a critical blast! (16438)
+[Fri Jan 23 07:57:00 2026] Emberval hit DPS Machine for 16438 points of non-melee damage.
+[Fri Jan 23 07:57:00 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:57:00 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:57:00 2026] Emberval scores a critical hit! (7557)
+[Fri Jan 23 07:57:00 2026] You pierce DPS Machine for 7658 points of damage.
+[Fri Jan 23 07:57:00 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:57:00 2026] Emberval hit DPS Machine for 1332 points of non-melee damage.
+[Fri Jan 23 07:57:00 2026] DPS Machine staggers.
+[Fri Jan 23 07:57:00 2026] You pierce DPS Machine for 2304 points of damage.
+[Fri Jan 23 07:57:00 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:57:01 2026] Sigdis hit DPS Machine for 13219 points of non-melee damage.
+[Fri Jan 23 07:57:01 2026] Sigdis tries to crush DPS Machine, but misses!
+[Fri Jan 23 07:57:01 2026] Emberval hit DPS Machine for 2726 points of non-melee damage.
+[Fri Jan 23 07:57:01 2026] DPS Machine screams in agony.
+[Fri Jan 23 07:57:01 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:57:01 2026] Emberval hit DPS Machine for 6623 points of non-melee damage.
+[Fri Jan 23 07:57:01 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:57:01 2026] Emberval scores a critical hit! (1050)
+[Fri Jan 23 07:57:01 2026] You pierce DPS Machine for 1151 points of damage.
+[Fri Jan 23 07:57:01 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:57:01 2026] Emberval hit DPS Machine for 2448 points of non-melee damage.
+[Fri Jan 23 07:57:01 2026] DPS Machine staggers.
+[Fri Jan 23 07:57:01 2026] Emberval scores a critical hit! (1814)
+[Fri Jan 23 07:57:01 2026] You pierce DPS Machine for 1915 points of damage.
+[Fri Jan 23 07:57:01 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:57:01 2026] DPS Machine was pierced by thorns.
+[Fri Jan 23 07:57:01 2026] DPS Machine hits Sigdis for 184 points of damage.
+[Fri Jan 23 07:57:01 2026] Sigdis hit DPS Machine for 25417 points of non-melee damage.
+[Fri Jan 23 07:57:01 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:57:01 2026] DPS Machine tries to hit Sigdis, but Sigdis dodges!
+[Fri Jan 23 07:57:02 2026] Emberval scores a critical hit! (2265)
+[Fri Jan 23 07:57:02 2026] You pierce DPS Machine for 2366 points of damage.
+[Fri Jan 23 07:57:02 2026] Emberval scores a critical hit! (5598)
+[Fri Jan 23 07:57:02 2026] You pierce DPS Machine for 5699 points of damage.
+[Fri Jan 23 07:57:02 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:57:02 2026] Emberval scores a critical hit! (1188)
+[Fri Jan 23 07:57:02 2026] You pierce DPS Machine for 1289 points of damage.
+[Fri Jan 23 07:57:02 2026] Emberval scores a critical hit! (6842)
+[Fri Jan 23 07:57:02 2026] You pierce DPS Machine for 6943 points of damage.
+[Fri Jan 23 07:57:03 2026] DPS Machine bashes YOU for 184 points of damage.
+[Fri Jan 23 07:57:03 2026] You begin casting Bite of the Shissar Poison Strike VII.
+[Fri Jan 23 07:57:03 2026] Emberval hit DPS Machine for 16900 points of non-melee damage.
+[Fri Jan 23 07:57:03 2026] DPS Machine is afflicted by poison.
+[Fri Jan 23 07:57:03 2026] You strike through your opponent's defenses!
+[Fri Jan 23 07:57:03 2026] Emberval scores a critical hit! (3293)
+[Fri Jan 23 07:57:03 2026] You pierce DPS Machine for 3394 points of damage.
+[Fri Jan 23 07:57:03 2026] Emberval scores a critical hit! (6418)
+[Fri Jan 23 07:57:03 2026] You pierce DPS Machine for 6519 points of damage.
+[Fri Jan 23 07:57:03 2026] You pierce DPS Machine for 2411 points of damage.
+[Fri Jan 23 07:57:03 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:57:04 2026] You pierce DPS Machine for 732 points of damage.
+[Fri Jan 23 07:57:04 2026] Emberval scores a critical hit! (6703)
+[Fri Jan 23 07:57:04 2026] You pierce DPS Machine for 6804 points of damage.
+[Fri Jan 23 07:57:04 2026] You strike through your opponent's defenses!
+[Fri Jan 23 07:57:04 2026] You try to pierce DPS Machine, but miss!
+[Fri Jan 23 07:57:04 2026] You strike through your opponent's defenses!
+[Fri Jan 23 07:57:04 2026] You pierce DPS Machine for 1687 points of damage.
+[Fri Jan 23 07:57:04 2026] Your target is too far away, get closer!
+[Fri Jan 23 07:57:04 2026] Your target is too far away, get closer!
+[Fri Jan 23 07:57:05 2026] Your target is too far away, get closer!
+[Fri Jan 23 07:57:05 2026] Your target is too far away, get closer!
+[Fri Jan 23 07:57:05 2026] You no longer have a target.
+[Fri Jan 23 07:57:05 2026] You must first click on the being you wish to attack!
+[Fri Jan 23 07:57:06 2026] You must first click on the being you wish to attack!
+[Fri Jan 23 07:57:06 2026] You must first click on the being you wish to attack!
+[Fri Jan 23 07:57:06 2026] You say, '#zone nexus -24 -4 -30'
+[Fri Jan 23 07:57:07 2026] LOADING, PLEASE WAIT...
+[Fri Jan 23 07:57:09 2026] You have entered Nexus.
+[Fri Jan 23 08:18:18 2026] Bohemia says out of character, 'Any enchanters around who could make some distilled mana? I will tip!'
+[Fri Jan 23 08:19:09 2026] Iskit says out of character, 'you can buy them from Merchant draco in GL'
+[Fri Jan 23 08:19:58 2026] Jenigh says, 'Hail, Greedy Goblin'
+[Fri Jan 23 08:34:01 2026] Groon says, 'Hail, Deja Vu'
+[Fri Jan 23 08:35:15 2026] Smallchap says, 'Hail, Buff Master'
+[Fri Jan 23 08:39:21 2026] Groon says, 'Hail, Buff Master'
