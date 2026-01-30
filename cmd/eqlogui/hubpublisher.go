@@ -38,9 +38,10 @@ type hubPublisherConfig struct {
 }
 
 type hubPublisherStatus struct {
-	enabled    bool
-	lastError  string
-	sentEvents int64
+	enabled                 bool
+	lastError               string
+	sentEvents              int64
+	droppedNonPcActorEvents int64
 }
 
 type hubPublisher struct {
@@ -114,6 +115,12 @@ func (p *hubPublisher) Enqueue(ev HubDamageEvent) {
 	}
 }
 
+func (p *hubPublisher) NoteDroppedNonPcActor(actor string) {
+	p.mu.Lock()
+	p.st.droppedNonPcActorEvents++
+	p.mu.Unlock()
+}
+
 func (p *hubPublisher) Start() error {
 	p.mu.Lock()
 	if p.st.enabled {
@@ -168,9 +175,29 @@ func (p *hubPublisher) Status() PublishingStatusUI {
 	enabled := p.st.enabled
 	lastError := p.st.lastError
 	sent := p.st.sentEvents
+	dropped := p.st.droppedNonPcActorEvents
+	unique := p.uniqueActorsSeenLocked(60 * time.Second)
 	p.mu.Unlock()
 
-	return PublishingStatusUI{Enabled: enabled, LastError: lastError, SentEvents: sent}
+	return PublishingStatusUI{Enabled: enabled, LastError: lastError, SentEvents: sent, DroppedNonPcActorEvents: dropped, UniquePcActorsSeenLast60s: unique}
+}
+
+func (p *hubPublisher) uniqueActorsSeenLocked(window time.Duration) int64 {
+	if window <= 0 {
+		window = 60 * time.Second
+	}
+	cutoff := time.Now().Add(-window)
+	unique := int64(0)
+	for a, t := range p.actorSeen {
+		if t.Before(cutoff) {
+			delete(p.actorSeen, a)
+			continue
+		}
+		if a != "" {
+			unique++
+		}
+	}
+	return unique
 }
 
 func (p *hubPublisher) loop() {

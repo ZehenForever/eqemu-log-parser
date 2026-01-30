@@ -1,0 +1,845 @@
+[Thu Jan 29 21:53:59 2026] Sigdis left the zone.
+[Thu Jan 29 21:54:01 2026] You say, '#zone iceclad -2585 887 109'
+[Thu Jan 29 21:54:02 2026] LOADING, PLEASE WAIT...
+[Thu Jan 29 21:54:04 2026] You have entered The Iceclad Ocean.
+[Thu Jan 29 21:54:10 2026] Sigdis hit Lord Hydrerious for 20719 points of non-melee damage.
+[Thu Jan 29 21:54:10 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:10 2026] Lord Hydrerious  tries to claw Sigdis, but misses!
+[Thu Jan 29 21:54:10 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:10 2026] Lord Hydrerious  claws Sigdis for 3384 points of damage.
+[Thu Jan 29 21:54:10 2026] Lord Hydrerious  tries to kick Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:11 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:11 2026] Lord Hydrerious  claws Sigdis for 2911 points of damage.
+[Thu Jan 29 21:54:11 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:11 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:12 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:12 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:12 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:13 2026] Sigdis regains concentration and continues casting.
+[Thu Jan 29 21:54:13 2026] Sigdis delivers a critical blast! (41984)
+[Thu Jan 29 21:54:13 2026] Sigdis hit Lord Hydrerious for 41984 points of non-melee damage.
+[Thu Jan 29 21:54:13 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:13 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:13 2026] Sigdis delivers a critical blast! (55734)
+[Thu Jan 29 21:54:13 2026] Sigdis hit Lord Hydrerious for 55734 points of non-melee damage.
+[Thu Jan 29 21:54:13 2026] Sigdis hit Lord Hydrerious for 20512 points of non-melee damage.
+[Thu Jan 29 21:54:13 2026] Lord Hydrerious  claws Sigdis for 3121 points of damage.
+[Thu Jan 29 21:54:14 2026] Sigdis delivers a critical blast! (62980)
+[Thu Jan 29 21:54:14 2026] Sigdis hit Lord Hydrerious for 62980 points of non-melee damage.
+[Thu Jan 29 21:54:14 2026] Lord Hydrerious  claws Sigdis for 2438 points of damage.
+[Thu Jan 29 21:54:14 2026] Sigdis hit Lord Hydrerious for 23856 points of non-melee damage.
+[Thu Jan 29 21:54:14 2026] Lord Hydrerious goes on a WILD RAMPAGE!
+[Thu Jan 29 21:54:14 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis blocks!
+[Thu Jan 29 21:54:14 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:14 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:14 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:14 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:14 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:15 2026] Lord Hydrerious  claws Sigdis for 2911 points of damage.
+[Thu Jan 29 21:54:15 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:15 2026] Sigdis delivers a critical blast! (43248)
+[Thu Jan 29 21:54:15 2026] Sigdis hit Lord Hydrerious for 43248 points of non-melee damage.
+[Thu Jan 29 21:54:15 2026] Sigdis hit Lord Hydrerious for 25194 points of non-melee damage.
+[Thu Jan 29 21:54:15 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:15 2026] Lord Hydrerious  claws Sigdis for 2806 points of damage.
+[Thu Jan 29 21:54:15 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:16 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:16 2026] Sigdis hit Lord Hydrerious for 20512 points of non-melee damage.
+[Thu Jan 29 21:54:16 2026] Lord Hydrerious  tries to claw Sigdis, but Sigdis dodges!
+[Thu Jan 29 21:54:17 2026] Sigdis hit Lord Hydrerious for 24442 points of non-melee damage.
+[Thu Jan 29 21:54:18 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:18 2026] Lord Hydrerious  claws Sigdis for 3174 points of damage.
+[Thu Jan 29 21:54:18 2026] Sigdis delivers a critical blast! (28074)
+[Thu Jan 29 21:54:18 2026] Sigdis hit Lord Hydrerious for 28074 points of non-melee damage.
+[Thu Jan 29 21:54:18 2026] Sigdis delivers a critical blast! (23702)
+[Thu Jan 29 21:54:18 2026] Sigdis hit Lord Hydrerious for 23702 points of non-melee damage.
+[Thu Jan 29 21:54:18 2026] Sigdis crushes Lord Hydrerious  for 199 points of damage.
+[Thu Jan 29 21:54:18 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:19 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:19 2026] Lord Hydrerious goes on a RAMPAGE!
+[Thu Jan 29 21:54:19 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:19 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:19 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:19 2026] Lord Hydrerious  claws YOU for 2595 points of damage. (Rampage)
+[Thu Jan 29 21:54:19 2026] Lord Hydrerious  tries to claw YOU, but YOU dodge!
+[Thu Jan 29 21:54:19 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:19 2026] Auto attack is on.
+[Thu Jan 29 21:54:19 2026] You cannot see your target.
+[Thu Jan 29 21:54:19 2026] You cannot see your target.
+[Thu Jan 29 21:54:19 2026] Sigdis hit Lord Hydrerious for 22929 points of non-melee damage.
+[Thu Jan 29 21:54:19 2026] Sigdis delivers a critical blast! (7254)
+[Thu Jan 29 21:54:19 2026] Sigdis hit Lord Hydrerious for 7254 points of non-melee damage.
+[Thu Jan 29 21:54:19 2026] Sigdis scores a critical hit! (222)
+[Thu Jan 29 21:54:19 2026] Sigdis crushes Lord Hydrerious  for 316 points of damage.
+[Thu Jan 29 21:54:19 2026] Auto attack is off.
+[Thu Jan 29 21:54:20 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:20 2026] Sigdis delivers a critical blast! (42802)
+[Thu Jan 29 21:54:20 2026] Sigdis hit Lord Hydrerious for 42802 points of non-melee damage.
+[Thu Jan 29 21:54:20 2026] Your song ends.
+[Thu Jan 29 21:54:20 2026] Sigdis hit Lord Hydrerious for 23163 points of non-melee damage.
+[Thu Jan 29 21:54:20 2026] Sigdis crushes Lord Hydrerious  for 320 points of damage.
+[Thu Jan 29 21:54:21 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:21 2026] Sigdis hit Lord Hydrerious for 18951 points of non-melee damage.
+[Thu Jan 29 21:54:21 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:21 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:21 2026] You no longer have a target.
+[Thu Jan 29 21:54:21 2026] Sigdis delivers a critical blast! (43194)
+[Thu Jan 29 21:54:21 2026] Sigdis hit Lord Hydrerious for 43194 points of non-melee damage.
+[Thu Jan 29 21:54:21 2026] Sigdis hit Lord Hydrerious for 12013 points of non-melee damage.
+[Thu Jan 29 21:54:21 2026] Sigdis hit Lord Hydrerious for 32046 points of non-melee damage.
+[Thu Jan 29 21:54:21 2026] Sigdis hit Lord Hydrerious for 3720 points of non-melee damage.
+[Thu Jan 29 21:54:21 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:22 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:22 2026] Sigdis hit Lord Hydrerious for 19174 points of non-melee damage.
+[Thu Jan 29 21:54:22 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:22 2026] Auto attack is on.
+[Thu Jan 29 21:54:22 2026] You cannot see your target.
+[Thu Jan 29 21:54:22 2026] You cannot see your target.
+[Thu Jan 29 21:54:23 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:23 2026] Sigdis delivers a critical blast! (52612)
+[Thu Jan 29 21:54:23 2026] Sigdis hit Lord Hydrerious for 52612 points of non-melee damage.
+[Thu Jan 29 21:54:23 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:23 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:23 2026] Sigdis hit Lord Hydrerious for 20880 points of non-melee damage.
+[Thu Jan 29 21:54:23 2026] Sigdis delivers a critical blast! (50272)
+[Thu Jan 29 21:54:23 2026] Sigdis hit Lord Hydrerious for 50272 points of non-melee damage.
+[Thu Jan 29 21:54:23 2026] Sigdis delivers a critical blast! (7494)
+[Thu Jan 29 21:54:23 2026] Sigdis hit Lord Hydrerious for 7494 points of non-melee damage.
+[Thu Jan 29 21:54:23 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:23 2026] You cannot see your target.
+[Thu Jan 29 21:54:23 2026] You cannot see your target.
+[Thu Jan 29 21:54:24 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:24 2026] You cannot see your target.
+[Thu Jan 29 21:54:24 2026] You cannot see your target.
+[Thu Jan 29 21:54:24 2026] Sigdis hit Lord Hydrerious for 20995 points of non-melee damage.
+[Thu Jan 29 21:54:24 2026] Sigdis hit Lord Hydrerious for 25415 points of non-melee damage.
+[Thu Jan 29 21:54:24 2026] Sigdis hit Lord Hydrerious for 2520 points of non-melee damage.
+[Thu Jan 29 21:54:24 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:25 2026] You cannot see your target.
+[Thu Jan 29 21:54:25 2026] You cannot see your target.
+[Thu Jan 29 21:54:25 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:25 2026] Sigdis hit Lord Hydrerious for 22518 points of non-melee damage.
+[Thu Jan 29 21:54:25 2026] Sigdis delivers a critical blast! (44586)
+[Thu Jan 29 21:54:25 2026] Sigdis hit Lord Hydrerious for 44586 points of non-melee damage.
+[Thu Jan 29 21:54:25 2026] Lord Hydrerious goes on a RAMPAGE!
+[Thu Jan 29 21:54:25 2026] Lord Hydrerious  tries to claw YOU, but YOU parry!
+[Thu Jan 29 21:54:25 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:25 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:25 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:25 2026] Lord Hydrerious  claws YOU for 3332 points of damage. (Rampage)
+[Thu Jan 29 21:54:25 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:25 2026] Sigdis hit Lord Hydrerious for 15840 points of non-melee damage.
+[Thu Jan 29 21:54:25 2026] Sigdis hit Lord Hydrerious for 32322 points of non-melee damage.
+[Thu Jan 29 21:54:25 2026] Sigdis hit Lord Hydrerious for 2670 points of non-melee damage.
+[Thu Jan 29 21:54:25 2026] Sigdis crushes Lord Hydrerious  for 220 points of damage.
+[Thu Jan 29 21:54:26 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:26 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:26 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:26 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:26 2026] You have been healed for 3168 points of damage.
+[Thu Jan 29 21:54:26 2026] Emberval hit Lord Hydrerious for 3168 points of non-melee damage.
+[Thu Jan 29 21:54:26 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:26 2026] You deliver a critical blast! (12536)
+[Thu Jan 29 21:54:26 2026] Emberval hit Lord Hydrerious for 12536 points of non-melee damage.
+[Thu Jan 29 21:54:26 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:26 2026] You pierce Lord Hydrerious  for 2705 points of damage.
+[Thu Jan 29 21:54:26 2026] Sigdis delivers a critical blast! (36722)
+[Thu Jan 29 21:54:26 2026] Sigdis hit Lord Hydrerious for 36722 points of non-melee damage.
+[Thu Jan 29 21:54:26 2026] Sigdis delivers a critical blast! (45684)
+[Thu Jan 29 21:54:26 2026] Sigdis hit Lord Hydrerious for 45684 points of non-melee damage.
+[Thu Jan 29 21:54:26 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:27 2026] You deliver a critical blast! (12008)
+[Thu Jan 29 21:54:27 2026] Emberval hit Lord Hydrerious for 12008 points of non-melee damage.
+[Thu Jan 29 21:54:27 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:27 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:27 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:27 2026] Emberval scores a critical hit! (6969)
+[Thu Jan 29 21:54:27 2026] You pierce Lord Hydrerious  for 7079 points of damage.
+[Thu Jan 29 21:54:27 2026] Sigdis delivers a critical blast! (45922)
+[Thu Jan 29 21:54:27 2026] Sigdis hit Lord Hydrerious for 45922 points of non-melee damage.
+[Thu Jan 29 21:54:27 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:27 2026] Your song ends.
+[Thu Jan 29 21:54:27 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:27 2026] You deliver a critical blast! (8972)
+[Thu Jan 29 21:54:27 2026] Emberval hit Lord Hydrerious for 8972 points of non-melee damage.
+[Thu Jan 29 21:54:27 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:27 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:28 2026] Sigdis hit Lord Hydrerious for 20520 points of non-melee damage.
+[Thu Jan 29 21:54:28 2026] Sigdis hit Lord Hydrerious for 24310 points of non-melee damage.
+[Thu Jan 29 21:54:28 2026] Sigdis delivers a critical blast! (5334)
+[Thu Jan 29 21:54:28 2026] Sigdis hit Lord Hydrerious for 5334 points of non-melee damage.
+[Thu Jan 29 21:54:28 2026] Sigdis crushes Lord Hydrerious  for 226 points of damage.
+[Thu Jan 29 21:54:28 2026] Sigdis delivers a critical blast! (55734)
+[Thu Jan 29 21:54:28 2026] Sigdis hit Lord Hydrerious for 55734 points of non-melee damage.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious goes on a RAMPAGE!
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious  claws YOU for 2911 points of damage. (Rampage)
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious  claws YOU for 2753 points of damage. (Rampage)
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:28 2026] Emberval hit Lord Hydrerious for 3498 points of non-melee damage.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:28 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:28 2026] You pierce Lord Hydrerious  for 1583 points of damage.
+[Thu Jan 29 21:54:28 2026] You have been healed for 2592 points of damage.
+[Thu Jan 29 21:54:28 2026] Emberval hit Lord Hydrerious for 2592 points of non-melee damage.
+[Thu Jan 29 21:54:28 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:28 2026] Emberval scores a critical hit! (2793)
+[Thu Jan 29 21:54:28 2026] You pierce Lord Hydrerious  for 2903 points of damage.
+[Thu Jan 29 21:54:29 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:29 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:29 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:29 2026] Sigdis hit Lord Hydrerious for 29559 points of non-melee damage.
+[Thu Jan 29 21:54:29 2026] Sigdis hit Lord Hydrerious for 3390 points of non-melee damage.
+[Thu Jan 29 21:54:29 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:29 2026] You pierce Lord Hydrerious  for 2600 points of damage.
+[Thu Jan 29 21:54:29 2026] You pierce Lord Hydrerious  for 948 points of damage.
+[Thu Jan 29 21:54:29 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:30 2026] Sigdis hit Lord Hydrerious for 21627 points of non-melee damage.
+[Thu Jan 29 21:54:30 2026] You pierce Lord Hydrerious  for 733 points of damage.
+[Thu Jan 29 21:54:30 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:30 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:30 2026] Sigdis hit Lord Hydrerious for 2430 points of non-melee damage.
+[Thu Jan 29 21:54:30 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:31 2026] You deliver a critical blast! (5468)
+[Thu Jan 29 21:54:31 2026] You have been healed for 3997 points of damage.
+[Thu Jan 29 21:54:31 2026] Emberval hit Lord Hydrerious for 5468 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:31 2026] You deliver a critical blast! (8840)
+[Thu Jan 29 21:54:31 2026] Emberval hit Lord Hydrerious for 8840 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:31 2026] You pierce Lord Hydrerious  for 249 points of damage.
+[Thu Jan 29 21:54:31 2026] You deliver a critical blast! (7124)
+[Thu Jan 29 21:54:31 2026] Emberval hit Lord Hydrerious for 7124 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:31 2026] You deliver a critical blast! (9368)
+[Thu Jan 29 21:54:31 2026] Emberval hit Lord Hydrerious for 9368 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:31 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:31 2026] Emberval scores a critical hit! (7584)
+[Thu Jan 29 21:54:31 2026] You pierce Lord Hydrerious  for 7694 points of damage.
+[Thu Jan 29 21:54:31 2026] Your song ends.
+[Thu Jan 29 21:54:31 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:31 2026] Sigdis hit Lord Hydrerious for 11566 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Sigdis delivers a critical blast! (6054)
+[Thu Jan 29 21:54:31 2026] Sigdis hit Lord Hydrerious for 6054 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Sigdis hit Lord Hydrerious for 3480 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Sigdis scores a critical hit! (180)
+[Thu Jan 29 21:54:31 2026] Sigdis crushes Lord Hydrerious  for 274 points of damage.
+[Thu Jan 29 21:54:31 2026] You deliver a critical blast! (5396)
+[Thu Jan 29 21:54:31 2026] Emberval hit Lord Hydrerious for 5396 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:31 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:31 2026] You deliver a critical blast! (4604)
+[Thu Jan 29 21:54:31 2026] Emberval hit Lord Hydrerious for 4604 points of non-melee damage.
+[Thu Jan 29 21:54:31 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:31 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:32 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:32 2026] Sigdis hit Lord Hydrerious for 23187 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Sigdis hit Lord Hydrerious for 17613 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:32 2026] Emberval hit Lord Hydrerious for 2448 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:32 2026] You deliver a critical blast! (9368)
+[Thu Jan 29 21:54:32 2026] Emberval hit Lord Hydrerious for 9368 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:32 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:32 2026] Emberval hit Lord Hydrerious for 4356 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:32 2026] Emberval scores a critical hit! (6969)
+[Thu Jan 29 21:54:32 2026] You pierce Lord Hydrerious  for 7079 points of damage.
+[Thu Jan 29 21:54:32 2026] Sigdis hit Lord Hydrerious for 20880 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Sigdis hit Lord Hydrerious for 29559 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Sigdis delivers a critical blast! (43642)
+[Thu Jan 29 21:54:32 2026] Sigdis hit Lord Hydrerious for 43642 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Sigdis hit Lord Hydrerious for 2310 points of non-melee damage.
+[Thu Jan 29 21:54:32 2026] Sigdis tries to crush Lord Hydrerious , but Lord Hydrerious  parries!
+[Thu Jan 29 21:54:33 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:33 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:33 2026] You deliver a critical blast! (4604)
+[Thu Jan 29 21:54:33 2026] Emberval hit Lord Hydrerious for 4604 points of non-melee damage.
+[Thu Jan 29 21:54:33 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:33 2026] Emberval hit Lord Hydrerious for 4950 points of non-melee damage.
+[Thu Jan 29 21:54:33 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:33 2026] Emberval hit Lord Hydrerious for 5214 points of non-melee damage.
+[Thu Jan 29 21:54:33 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:33 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:33 2026] Emberval scores a critical hit! (7070)
+[Thu Jan 29 21:54:33 2026] You pierce Lord Hydrerious  for 7180 points of damage.
+[Thu Jan 29 21:54:33 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:33 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:34 2026] Sigdis delivers a critical blast! (4414)
+[Thu Jan 29 21:54:34 2026] Sigdis hit Lord Hydrerious for 4414 points of non-melee damage.
+[Thu Jan 29 21:54:34 2026] Sigdis delivers a critical blast! (5634)
+[Thu Jan 29 21:54:34 2026] Sigdis hit Lord Hydrerious for 5634 points of non-melee damage.
+[Thu Jan 29 21:54:34 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:34 2026] Emberval scores a critical hit! (7163)
+[Thu Jan 29 21:54:34 2026] You pierce Lord Hydrerious  for 7273 points of damage.
+[Thu Jan 29 21:54:34 2026] Emberval scores a critical hit! (2810)
+[Thu Jan 29 21:54:34 2026] You pierce Lord Hydrerious  for 2920 points of damage.
+[Thu Jan 29 21:54:34 2026] Emberval scores a critical hit! (4626)
+[Thu Jan 29 21:54:34 2026] You pierce Lord Hydrerious  for 4736 points of damage.
+[Thu Jan 29 21:54:34 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:34 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:34 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:34 2026] Sigdis delivers a critical blast! (42802)
+[Thu Jan 29 21:54:34 2026] Sigdis hit Lord Hydrerious for 42802 points of non-melee damage.
+[Thu Jan 29 21:54:34 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:35 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:35 2026] Emberval hit Lord Hydrerious for 3432 points of non-melee damage.
+[Thu Jan 29 21:54:35 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:35 2026] Emberval scores a critical hit! (6969)
+[Thu Jan 29 21:54:35 2026] You pierce Lord Hydrerious  for 7079 points of damage.
+[Thu Jan 29 21:54:35 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:35 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:35 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:35 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:35 2026] Sigdis delivers a critical blast! (57456)
+[Thu Jan 29 21:54:35 2026] Sigdis hit Lord Hydrerious for 57456 points of non-melee damage.
+[Thu Jan 29 21:54:35 2026] Sigdis hit Lord Hydrerious for 13985 points of non-melee damage.
+[Thu Jan 29 21:54:35 2026] Sigdis delivers a critical blast! (5094)
+[Thu Jan 29 21:54:35 2026] Sigdis hit Lord Hydrerious for 5094 points of non-melee damage.
+[Thu Jan 29 21:54:35 2026] Sigdis delivers a critical blast! (4914)
+[Thu Jan 29 21:54:35 2026] Sigdis hit Lord Hydrerious for 4914 points of non-melee damage.
+[Thu Jan 29 21:54:35 2026] Sigdis hit Lord Hydrerious for 2232 points of non-melee damage.
+[Thu Jan 29 21:54:35 2026] Sigdis crushes Lord Hydrerious  for 320 points of damage.
+[Thu Jan 29 21:54:35 2026] You pierce Lord Hydrerious  for 1086 points of damage.
+[Thu Jan 29 21:54:35 2026] Emberval hit Lord Hydrerious for 1656 points of non-melee damage.
+[Thu Jan 29 21:54:35 2026] Emberval scores a critical hit! (6969)
+[Thu Jan 29 21:54:35 2026] You pierce Lord Hydrerious  for 7079 points of damage.
+[Thu Jan 29 21:54:36 2026] Your song ends.
+[Thu Jan 29 21:54:36 2026] Sigdis delivers a critical blast! (33438)
+[Thu Jan 29 21:54:36 2026] Sigdis hit Lord Hydrerious for 33438 points of non-melee damage.
+[Thu Jan 29 21:54:36 2026] Lord Hydrerious goes on a WILD RAMPAGE!
+[Thu Jan 29 21:54:36 2026] Lord Hydrerious  tries to claw YOU, but YOU dodge!
+[Thu Jan 29 21:54:36 2026] Lord Hydrerious  tries to claw YOU, but YOU parry!
+[Thu Jan 29 21:54:36 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:36 2026] Sigdis hit Lord Hydrerious for 23482 points of non-melee damage.
+[Thu Jan 29 21:54:36 2026] Sigdis delivers a critical blast! (6234)
+[Thu Jan 29 21:54:36 2026] Sigdis hit Lord Hydrerious for 6234 points of non-melee damage.
+[Thu Jan 29 21:54:36 2026] Sigdis delivers a critical blast! (4026)
+[Thu Jan 29 21:54:36 2026] Sigdis hit Lord Hydrerious for 4026 points of non-melee damage.
+[Thu Jan 29 21:54:36 2026] Sigdis delivers a critical blast! (5562)
+[Thu Jan 29 21:54:36 2026] Sigdis hit Lord Hydrerious for 5562 points of non-melee damage.
+[Thu Jan 29 21:54:36 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:36 2026] Emberval hit Lord Hydrerious for 4620 points of non-melee damage.
+[Thu Jan 29 21:54:36 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:36 2026] You deliver a critical blast! (3644)
+[Thu Jan 29 21:54:36 2026] Emberval hit Lord Hydrerious for 3644 points of non-melee damage.
+[Thu Jan 29 21:54:36 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:36 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:36 2026] Emberval hit Lord Hydrerious for 1776 points of non-melee damage.
+[Thu Jan 29 21:54:36 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:36 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:36 2026] Your song ends.
+[Thu Jan 29 21:54:37 2026] Sigdis hit Lord Hydrerious for 17836 points of non-melee damage.
+[Thu Jan 29 21:54:37 2026] Sigdis hit Lord Hydrerious for 18951 points of non-melee damage.
+[Thu Jan 29 21:54:37 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:37 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:37 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:37 2026] You deliver a critical blast! (4820)
+[Thu Jan 29 21:54:37 2026] Emberval hit Lord Hydrerious for 4820 points of non-melee damage.
+[Thu Jan 29 21:54:37 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:37 2026] Emberval hit Lord Hydrerious for 5082 points of non-melee damage.
+[Thu Jan 29 21:54:37 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:37 2026] Emberval hit Lord Hydrerious for 4950 points of non-melee damage.
+[Thu Jan 29 21:54:37 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:37 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:37 2026] You deliver a critical blast! (10688)
+[Thu Jan 29 21:54:37 2026] Emberval hit Lord Hydrerious for 10688 points of non-melee damage.
+[Thu Jan 29 21:54:37 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:37 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:37 2026] Sigdis delivers a critical blast! (7434)
+[Thu Jan 29 21:54:37 2026] Sigdis hit Lord Hydrerious for 7434 points of non-melee damage.
+[Thu Jan 29 21:54:37 2026] Sigdis hit Lord Hydrerious for 2310 points of non-melee damage.
+[Thu Jan 29 21:54:37 2026] Sigdis crushes Lord Hydrerious  for 359 points of damage.
+[Thu Jan 29 21:54:38 2026] Emberval hit Lord Hydrerious for 4158 points of non-melee damage.
+[Thu Jan 29 21:54:38 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:38 2026] Emberval scores a critical hit! (6986)
+[Thu Jan 29 21:54:38 2026] You pierce Lord Hydrerious  for 7096 points of damage.
+[Thu Jan 29 21:54:38 2026] You pierce Lord Hydrerious  for 807 points of damage.
+[Thu Jan 29 21:54:38 2026] Emberval hit Lord Hydrerious for 5214 points of non-melee damage.
+[Thu Jan 29 21:54:38 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:38 2026] Emberval hit Lord Hydrerious for 1776 points of non-melee damage.
+[Thu Jan 29 21:54:38 2026] Emberval scores a critical hit! (1259)
+[Thu Jan 29 21:54:38 2026] You pierce Lord Hydrerious  for 1369 points of damage.
+[Thu Jan 29 21:54:38 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:38 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:38 2026] Sigdis delivers a critical blast! (45476)
+[Thu Jan 29 21:54:38 2026] Sigdis hit Lord Hydrerious for 45476 points of non-melee damage.
+[Thu Jan 29 21:54:38 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:38 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:38 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:38 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:38 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:38 2026] Your song ends.
+[Thu Jan 29 21:54:38 2026] Sigdis delivers a critical blast! (29514)
+[Thu Jan 29 21:54:38 2026] Sigdis hit Lord Hydrerious for 29514 points of non-melee damage.
+[Thu Jan 29 21:54:38 2026] Sigdis hit Lord Hydrerious for 22320 points of non-melee damage.
+[Thu Jan 29 21:54:38 2026] Sigdis delivers a critical blast! (49720)
+[Thu Jan 29 21:54:38 2026] Sigdis hit Lord Hydrerious for 49720 points of non-melee damage.
+[Thu Jan 29 21:54:38 2026] Sigdis hit Lord Hydrerious for 3240 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Sigdis hit Lord Hydrerious for 2280 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Sigdis delivers a critical blast! (4026)
+[Thu Jan 29 21:54:39 2026] Sigdis hit Lord Hydrerious for 4026 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Sigdis crushes Lord Hydrerious  for 164 points of damage.
+[Thu Jan 29 21:54:39 2026] You pierce Lord Hydrerious  for 521 points of damage.
+[Thu Jan 29 21:54:39 2026] You deliver a critical blast! (3956)
+[Thu Jan 29 21:54:39 2026] Emberval hit Lord Hydrerious for 3956 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:39 2026] You deliver a critical blast! (7784)
+[Thu Jan 29 21:54:39 2026] Emberval hit Lord Hydrerious for 7784 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:39 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:39 2026] Sigdis hit Lord Hydrerious for 26755 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Sigdis hit Lord Hydrerious for 1684 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:39 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:39 2026] You deliver a critical blast! (10160)
+[Thu Jan 29 21:54:39 2026] Emberval hit Lord Hydrerious for 10160 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:39 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:39 2026] Emberval hit Lord Hydrerious for 5016 points of non-melee damage.
+[Thu Jan 29 21:54:39 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:39 2026] Emberval scores a critical hit! (7361)
+[Thu Jan 29 21:54:39 2026] You pierce Lord Hydrerious  for 7471 points of damage.
+[Thu Jan 29 21:54:39 2026] Your command over magical curses fades.
+[Thu Jan 29 21:54:40 2026] Sigdis delivers a critical blast! (49720)
+[Thu Jan 29 21:54:40 2026] Sigdis hit Lord Hydrerious for 49720 points of non-melee damage.
+[Thu Jan 29 21:54:40 2026] Sigdis hit Lord Hydrerious for 2430 points of non-melee damage.
+[Thu Jan 29 21:54:40 2026] Sigdis hit Lord Hydrerious for 3480 points of non-melee damage.
+[Thu Jan 29 21:54:40 2026] Sigdis delivers a critical blast! (5562)
+[Thu Jan 29 21:54:40 2026] Sigdis hit Lord Hydrerious for 5562 points of non-melee damage.
+[Thu Jan 29 21:54:40 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:40 2026] Sigdis hit Lord Hydrerious for 22964 points of non-melee damage.
+[Thu Jan 29 21:54:40 2026] Emberval hit Lord Hydrerious for 2016 points of non-melee damage.
+[Thu Jan 29 21:54:40 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:40 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:41 2026] Sigdis delivers a critical blast! (55798)
+[Thu Jan 29 21:54:41 2026] Sigdis hit Lord Hydrerious for 55798 points of non-melee damage.
+[Thu Jan 29 21:54:41 2026] Sigdis hit Lord Hydrerious for 2460 points of non-melee damage.
+[Thu Jan 29 21:54:41 2026] Sigdis hit Lord Hydrerious for 2760 points of non-melee damage.
+[Thu Jan 29 21:54:41 2026] Sigdis delivers a critical blast! (3834)
+[Thu Jan 29 21:54:41 2026] Sigdis hit Lord Hydrerious for 3834 points of non-melee damage.
+[Thu Jan 29 21:54:41 2026] Sigdis hit Lord Hydrerious for 2184 points of non-melee damage.
+[Thu Jan 29 21:54:41 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:41 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:41 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:41 2026] You deliver a critical blast! (7124)
+[Thu Jan 29 21:54:41 2026] Emberval hit Lord Hydrerious for 7124 points of non-melee damage.
+[Thu Jan 29 21:54:41 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:41 2026] Emberval scores a critical hit! (1917)
+[Thu Jan 29 21:54:41 2026] You pierce Lord Hydrerious  for 2027 points of damage.
+[Thu Jan 29 21:54:41 2026] You deliver a critical blast! (9500)
+[Thu Jan 29 21:54:41 2026] Emberval hit Lord Hydrerious for 9500 points of non-melee damage.
+[Thu Jan 29 21:54:41 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:41 2026] You pierce Lord Hydrerious  for 2509 points of damage.
+[Thu Jan 29 21:54:42 2026] You pierce Lord Hydrerious  for 2526 points of damage.
+[Thu Jan 29 21:54:42 2026] Emberval hit Lord Hydrerious for 2484 points of non-melee damage.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:42 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:42 2026] Sigdis delivers a critical blast! (34774)
+[Thu Jan 29 21:54:42 2026] Sigdis hit Lord Hydrerious for 34774 points of non-melee damage.
+[Thu Jan 29 21:54:42 2026] Sigdis delivers a critical blast! (35666)
+[Thu Jan 29 21:54:42 2026] Sigdis hit Lord Hydrerious for 35666 points of non-melee damage.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious goes on a RAMPAGE!
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious  claws YOU for 2964 points of damage. (Rampage)
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious  claws YOU for 3279 points of damage. (Rampage)
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious  tries to claw YOU, but YOU dodge!
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:42 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:43 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:43 2026] Emberval hit Lord Hydrerious for 5874 points of non-melee damage.
+[Thu Jan 29 21:54:43 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:43 2026] Emberval hit Lord Hydrerious for 1848 points of non-melee damage.
+[Thu Jan 29 21:54:43 2026] Emberval scores a critical hit! (7378)
+[Thu Jan 29 21:54:43 2026] You pierce Lord Hydrerious  for 7488 points of damage.
+[Thu Jan 29 21:54:43 2026] Emberval hit Lord Hydrerious for 3762 points of non-melee damage.
+[Thu Jan 29 21:54:43 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:43 2026] Emberval scores a critical hit! (2089)
+[Thu Jan 29 21:54:43 2026] You pierce Lord Hydrerious  for 2199 points of damage.
+[Thu Jan 29 21:54:43 2026] Sigdis delivers a critical blast! (47706)
+[Thu Jan 29 21:54:43 2026] Sigdis hit Lord Hydrerious for 47706 points of non-melee damage.
+[Thu Jan 29 21:54:43 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:43 2026] Emberval hit Lord Hydrerious for 4554 points of non-melee damage.
+[Thu Jan 29 21:54:43 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:43 2026] Emberval hit Lord Hydrerious for 1320 points of non-melee damage.
+[Thu Jan 29 21:54:43 2026] You pierce Lord Hydrerious  for 2542 points of damage.
+[Thu Jan 29 21:54:43 2026] Emberval hit Lord Hydrerious for 5808 points of non-melee damage.
+[Thu Jan 29 21:54:43 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:43 2026] Emberval hit Lord Hydrerious for 2160 points of non-melee damage.
+[Thu Jan 29 21:54:43 2026] You pierce Lord Hydrerious  for 1830 points of damage.
+[Thu Jan 29 21:54:43 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:44 2026] Sigdis delivers a critical blast! (33438)
+[Thu Jan 29 21:54:44 2026] Sigdis hit Lord Hydrerious for 33438 points of non-melee damage.
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious goes on a RAMPAGE!
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious  claws YOU for 2543 points of damage. (Rampage)
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious  tries to claw YOU, but YOU parry!
+[Thu Jan 29 21:54:44 2026] You have been healed for 2268 points of damage.
+[Thu Jan 29 21:54:44 2026] Emberval hit Lord Hydrerious for 2268 points of non-melee damage.
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:44 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:44 2026] Emberval hit Lord Hydrerious for 5478 points of non-melee damage.
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:44 2026] You deliver a critical blast! (6596)
+[Thu Jan 29 21:54:44 2026] Emberval hit Lord Hydrerious for 6596 points of non-melee damage.
+[Thu Jan 29 21:54:44 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:44 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:44 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:45 2026] You have been healed for 1800 points of damage.
+[Thu Jan 29 21:54:45 2026] Emberval hit Lord Hydrerious for 1800 points of non-melee damage.
+[Thu Jan 29 21:54:45 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:45 2026] Emberval hit Lord Hydrerious for 4422 points of non-melee damage.
+[Thu Jan 29 21:54:45 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:45 2026] You pierce Lord Hydrerious  for 2042 points of damage.
+[Thu Jan 29 21:54:45 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:45 2026] You have been healed for 2988 points of damage.
+[Thu Jan 29 21:54:45 2026] Emberval hit Lord Hydrerious for 2988 points of non-melee damage.
+[Thu Jan 29 21:54:45 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:45 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:45 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:45 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:45 2026] Sigdis delivers a critical blast! (37450)
+[Thu Jan 29 21:54:45 2026] Sigdis hit Lord Hydrerious for 37450 points of non-melee damage.
+[Thu Jan 29 21:54:45 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:45 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:45 2026] Sigdis regains concentration and continues casting.
+[Thu Jan 29 21:54:45 2026] Sigdis has healed you for 1450 points.
+[Thu Jan 29 21:54:45 2026] Sigdis performs an exceptional heal! (67886)
+[Thu Jan 29 21:54:45 2026] Sigdis delivers a critical blast! (14676)
+[Thu Jan 29 21:54:45 2026] Sigdis hit Lord Hydrerious for 14676 points of non-melee damage.
+[Thu Jan 29 21:54:45 2026] Sigdis hit Lord Hydrerious for 18441 points of non-melee damage.
+[Thu Jan 29 21:54:45 2026] Sigdis delivers a critical blast! (5754)
+[Thu Jan 29 21:54:45 2026] Sigdis hit Lord Hydrerious for 5754 points of non-melee damage.
+[Thu Jan 29 21:54:45 2026] Sigdis delivers a critical blast! (6594)
+[Thu Jan 29 21:54:45 2026] Sigdis hit Lord Hydrerious for 6594 points of non-melee damage.
+[Thu Jan 29 21:54:45 2026] Sigdis crushes Lord Hydrerious  for 220 points of damage.
+[Thu Jan 29 21:54:46 2026] Emberval hit Lord Hydrerious for 5346 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:46 2026] Emberval hit Lord Hydrerious for 4554 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:46 2026] You deliver a critical blast! (11216)
+[Thu Jan 29 21:54:46 2026] Emberval hit Lord Hydrerious for 11216 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:46 2026] Emberval scores a critical hit! (3164)
+[Thu Jan 29 21:54:46 2026] You pierce Lord Hydrerious  for 3274 points of damage.
+[Thu Jan 29 21:54:46 2026] Emberval hit Lord Hydrerious for 2628 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:46 2026] Emberval scores a critical hit! (7277)
+[Thu Jan 29 21:54:46 2026] You pierce Lord Hydrerious  for 7387 points of damage.
+[Thu Jan 29 21:54:46 2026] Emberval scores a critical hit! (6969)
+[Thu Jan 29 21:54:46 2026] You pierce Lord Hydrerious  for 7079 points of damage.
+[Thu Jan 29 21:54:46 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:46 2026] Sigdis delivers a critical blast! (25370)
+[Thu Jan 29 21:54:46 2026] Sigdis hit Lord Hydrerious for 25370 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Lord Hydrerious goes on a RAMPAGE!
+[Thu Jan 29 21:54:46 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:46 2026] Lord Hydrerious  tries to claw YOU, but YOU riposte!
+[Thu Jan 29 21:54:46 2026] Lord Hydrerious  tries to claw YOU, but YOU dodge!
+[Thu Jan 29 21:54:46 2026] Sigdis hit Lord Hydrerious for 27626 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Sigdis delivers a critical blast! (66296)
+[Thu Jan 29 21:54:46 2026] Sigdis hit Lord Hydrerious for 66296 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Sigdis hit Lord Hydrerious for 2610 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Sigdis delivers a critical blast! (3642)
+[Thu Jan 29 21:54:46 2026] Sigdis hit Lord Hydrerious for 3642 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Sigdis hit Lord Hydrerious for 2856 points of non-melee damage.
+[Thu Jan 29 21:54:46 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:47 2026] Emberval hit Lord Hydrerious for 2184 points of non-melee damage.
+[Thu Jan 29 21:54:47 2026] Emberval hit Lord Hydrerious for 3564 points of non-melee damage.
+[Thu Jan 29 21:54:47 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:47 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:47 2026] Emberval scores a critical hit! (6287)
+[Thu Jan 29 21:54:47 2026] You pierce Lord Hydrerious  for 6397 points of damage.
+[Thu Jan 29 21:54:47 2026] Emberval hit Lord Hydrerious for 4290 points of non-melee damage.
+[Thu Jan 29 21:54:47 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:47 2026] Emberval scores a critical hit! (6969)
+[Thu Jan 29 21:54:47 2026] You pierce Lord Hydrerious  for 7079 points of damage.
+[Thu Jan 29 21:54:47 2026] Emberval scores a critical hit! (7668)
+[Thu Jan 29 21:54:47 2026] You pierce Lord Hydrerious  for 7778 points of damage.
+[Thu Jan 29 21:54:47 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:47 2026] Sigdis hit Lord Hydrerious for 26978 points of non-melee damage.
+[Thu Jan 29 21:54:47 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:47 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:48 2026] You pierce Lord Hydrerious  for 1208 points of damage.
+[Thu Jan 29 21:54:48 2026] You deliver a critical blast! (7388)
+[Thu Jan 29 21:54:48 2026] Emberval hit Lord Hydrerious for 7388 points of non-melee damage.
+[Thu Jan 29 21:54:48 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:48 2026] Emberval scores a critical hit! (2089)
+[Thu Jan 29 21:54:48 2026] You pierce Lord Hydrerious  for 2199 points of damage.
+[Thu Jan 29 21:54:48 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:48 2026] Sigdis hit Lord Hydrerious for 32046 points of non-melee damage.
+[Thu Jan 29 21:54:48 2026] Sigdis delivers a critical blast! (41984)
+[Thu Jan 29 21:54:48 2026] Sigdis hit Lord Hydrerious for 41984 points of non-melee damage.
+[Thu Jan 29 21:54:48 2026] Sigdis hit Lord Hydrerious for 2280 points of non-melee damage.
+[Thu Jan 29 21:54:48 2026] Sigdis hit Lord Hydrerious for 3660 points of non-melee damage.
+[Thu Jan 29 21:54:48 2026] Sigdis crushes Lord Hydrerious  for 267 points of damage.
+[Thu Jan 29 21:54:48 2026] Sigdis delivers a critical blast! (42802)
+[Thu Jan 29 21:54:48 2026] Sigdis hit Lord Hydrerious for 42802 points of non-melee damage.
+[Thu Jan 29 21:54:48 2026] Emberval hit Lord Hydrerious for 2016 points of non-melee damage.
+[Thu Jan 29 21:54:48 2026] Emberval scores a critical hit! (5936)
+[Thu Jan 29 21:54:48 2026] You pierce Lord Hydrerious  for 6046 points of damage.
+[Thu Jan 29 21:54:48 2026] Emberval scores a critical hit! (7201)
+[Thu Jan 29 21:54:48 2026] You pierce Lord Hydrerious  for 7311 points of damage.
+[Thu Jan 29 21:54:48 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:48 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:49 2026] Sigdis delivers a critical blast! (66296)
+[Thu Jan 29 21:54:49 2026] Sigdis hit Lord Hydrerious for 66296 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Sigdis delivers a critical blast! (6894)
+[Thu Jan 29 21:54:49 2026] Sigdis hit Lord Hydrerious for 6894 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Sigdis hit Lord Hydrerious for 2310 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Sigdis hit Lord Hydrerious for 2880 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Sigdis delivers a critical blast! (4746)
+[Thu Jan 29 21:54:49 2026] Sigdis hit Lord Hydrerious for 4746 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:49 2026] You deliver a critical blast! (12008)
+[Thu Jan 29 21:54:49 2026] Emberval hit Lord Hydrerious for 12008 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:49 2026] You deliver a critical blast! (3500)
+[Thu Jan 29 21:54:49 2026] Emberval hit Lord Hydrerious for 3500 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Emberval scores a critical hit! (4208)
+[Thu Jan 29 21:54:49 2026] You pierce Lord Hydrerious  for 4318 points of damage.
+[Thu Jan 29 21:54:49 2026] Emberval hit Lord Hydrerious for 3828 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:49 2026] Emberval hit Lord Hydrerious for 3564 points of non-melee damage.
+[Thu Jan 29 21:54:49 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:49 2026] Emberval scores a critical hit! (1790)
+[Thu Jan 29 21:54:49 2026] You pierce Lord Hydrerious  for 1900 points of damage.
+[Thu Jan 29 21:54:49 2026] You pierce Lord Hydrerious  for 1852 points of damage.
+[Thu Jan 29 21:54:49 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:50 2026] Emberval hit Lord Hydrerious for 2376 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:50 2026] Emberval hit Lord Hydrerious for 4884 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:50 2026] Emberval hit Lord Hydrerious for 3696 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:50 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:50 2026] Emberval hit Lord Hydrerious for 5610 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:50 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:50 2026] Sigdis hit Lord Hydrerious for 20700 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Sigdis delivers a critical blast! (57456)
+[Thu Jan 29 21:54:50 2026] Sigdis hit Lord Hydrerious for 57456 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Sigdis hit Lord Hydrerious for 2460 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:50 2026] Sigdis delivers a critical blast! (41018)
+[Thu Jan 29 21:54:50 2026] Sigdis hit Lord Hydrerious for 41018 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Sigdis hit Lord Hydrerious for 26755 points of non-melee damage.
+[Thu Jan 29 21:54:50 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:51 2026] Emberval hit Lord Hydrerious for 2016 points of non-melee damage.
+[Thu Jan 29 21:54:51 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:51 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:51 2026] Emberval scores a critical hit! (3147)
+[Thu Jan 29 21:54:51 2026] You pierce Lord Hydrerious  for 3257 points of damage.
+[Thu Jan 29 21:54:51 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:51 2026] Sigdis delivers a critical blast! (40572)
+[Thu Jan 29 21:54:51 2026] Sigdis hit Lord Hydrerious for 40572 points of non-melee damage.
+[Thu Jan 29 21:54:51 2026] Sigdis hit Lord Hydrerious for 21733 points of non-melee damage.
+[Thu Jan 29 21:54:51 2026] Sigdis hit Lord Hydrerious for 30388 points of non-melee damage.
+[Thu Jan 29 21:54:51 2026] Sigdis delivers a critical blast! (5514)
+[Thu Jan 29 21:54:51 2026] Sigdis hit Lord Hydrerious for 5514 points of non-melee damage.
+[Thu Jan 29 21:54:51 2026] Sigdis delivers a critical blast! (7314)
+[Thu Jan 29 21:54:51 2026] Sigdis hit Lord Hydrerious for 7314 points of non-melee damage.
+[Thu Jan 29 21:54:51 2026] Sigdis hit Lord Hydrerious for 2040 points of non-melee damage.
+[Thu Jan 29 21:54:51 2026] Sigdis delivers a critical blast! (4506)
+[Thu Jan 29 21:54:51 2026] Sigdis hit Lord Hydrerious for 4506 points of non-melee damage.
+[Thu Jan 29 21:54:51 2026] Sigdis scores a critical hit! (459)
+[Thu Jan 29 21:54:51 2026] Sigdis crushes Lord Hydrerious  for 553 points of damage.
+[Thu Jan 29 21:54:52 2026] Emberval hit Lord Hydrerious for 3564 points of non-melee damage.
+[Thu Jan 29 21:54:52 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:52 2026] Emberval hit Lord Hydrerious for 2112 points of non-melee damage.
+[Thu Jan 29 21:54:52 2026] You pierce Lord Hydrerious  for 2600 points of damage.
+[Thu Jan 29 21:54:52 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:52 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:52 2026] Sigdis hit Lord Hydrerious for 20958 points of non-melee damage.
+[Thu Jan 29 21:54:52 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:52 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:52 2026] Emberval scores a critical hit! (1787)
+[Thu Jan 29 21:54:52 2026] You pierce Lord Hydrerious  for 1897 points of damage.
+[Thu Jan 29 21:54:52 2026] Emberval hit Lord Hydrerious for 4554 points of non-melee damage.
+[Thu Jan 29 21:54:52 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:52 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:53 2026] Sigdis hit Lord Hydrerious for 30941 points of non-melee damage.
+[Thu Jan 29 21:54:53 2026] Sigdis hit Lord Hydrerious for 3240 points of non-melee damage.
+[Thu Jan 29 21:54:53 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:53 2026] You deliver a critical blast! (5684)
+[Thu Jan 29 21:54:53 2026] Emberval hit Lord Hydrerious for 5684 points of non-melee damage.
+[Thu Jan 29 21:54:53 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:53 2026] You deliver a critical blast! (11480)
+[Thu Jan 29 21:54:53 2026] Emberval hit Lord Hydrerious for 11480 points of non-melee damage.
+[Thu Jan 29 21:54:53 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:53 2026] You deliver a critical blast! (11084)
+[Thu Jan 29 21:54:53 2026] Emberval hit Lord Hydrerious for 11084 points of non-melee damage.
+[Thu Jan 29 21:54:53 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:53 2026] Emberval scores a critical hit! (6986)
+[Thu Jan 29 21:54:53 2026] You pierce Lord Hydrerious  for 7096 points of damage.
+[Thu Jan 29 21:54:53 2026] You deliver a critical blast! (12932)
+[Thu Jan 29 21:54:53 2026] Emberval hit Lord Hydrerious for 12932 points of non-melee damage.
+[Thu Jan 29 21:54:53 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:53 2026] Emberval scores a critical hit! (5566)
+[Thu Jan 29 21:54:53 2026] You pierce Lord Hydrerious  for 5676 points of damage.
+[Thu Jan 29 21:54:53 2026] Sigdis delivers a critical blast! (42802)
+[Thu Jan 29 21:54:53 2026] Sigdis hit Lord Hydrerious for 42802 points of non-melee damage.
+[Thu Jan 29 21:54:53 2026] Lord Hydrerious goes on a RAMPAGE!
+[Thu Jan 29 21:54:53 2026] Emberval scores a critical hit! (6986)
+[Thu Jan 29 21:54:53 2026] You pierce Lord Hydrerious  for 7096 points of damage.
+[Thu Jan 29 21:54:53 2026] Lord Hydrerious  tries to claw YOU, but YOU riposte!
+[Thu Jan 29 21:54:53 2026] Lord Hydrerious  tries to claw YOU, but YOU dodge!
+[Thu Jan 29 21:54:54 2026] Sigdis hit Lord Hydrerious for 11404 points of non-melee damage.
+[Thu Jan 29 21:54:54 2026] Sigdis hit Lord Hydrerious for 3540 points of non-melee damage.
+[Thu Jan 29 21:54:54 2026] Sigdis crushes Lord Hydrerious  for 214 points of damage.
+[Thu Jan 29 21:54:54 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:54 2026] Emberval scores a critical hit! (5743)
+[Thu Jan 29 21:54:54 2026] You pierce Lord Hydrerious  for 5853 points of damage.
+[Thu Jan 29 21:54:54 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:55 2026] You deliver a critical blast! (6692)
+[Thu Jan 29 21:54:55 2026] Emberval hit Lord Hydrerious for 6692 points of non-melee damage.
+[Thu Jan 29 21:54:55 2026] Lord Hydrerious  staggers.
+[Thu Jan 29 21:54:55 2026] Emberval scores a critical hit! (6679)
+[Thu Jan 29 21:54:55 2026] You pierce Lord Hydrerious  for 6789 points of damage.
+[Thu Jan 29 21:54:55 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:55 2026] Emberval hit Lord Hydrerious for 4686 points of non-melee damage.
+[Thu Jan 29 21:54:55 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:55 2026] Emberval hit Lord Hydrerious for 4488 points of non-melee damage.
+[Thu Jan 29 21:54:55 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:55 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:55 2026] Sigdis delivers a critical blast! (35274)
+[Thu Jan 29 21:54:55 2026] Sigdis hit Lord Hydrerious for 35274 points of non-melee damage.
+[Thu Jan 29 21:54:55 2026] Sigdis hit Lord Hydrerious for 16560 points of non-melee damage.
+[Thu Jan 29 21:54:55 2026] Sigdis delivers a critical blast! (7692)
+[Thu Jan 29 21:54:55 2026] Sigdis hit Lord Hydrerious for 7692 points of non-melee damage.
+[Thu Jan 29 21:54:55 2026] Sigdis hit Lord Hydrerious for 3450 points of non-melee damage.
+[Thu Jan 29 21:54:55 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:55 2026] Sigdis hit Lord Hydrerious for 21404 points of non-melee damage.
+[Thu Jan 29 21:54:55 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:55 2026] Lord Hydrerious has become ENRAGED.
+[Thu Jan 29 21:54:56 2026] You deliver a critical blast! (10688)
+[Thu Jan 29 21:54:56 2026] Emberval hit Lord Hydrerious for 10688 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:56 2026] Emberval hit Lord Hydrerious for 4092 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:56 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:56 2026] Emberval hit Lord Hydrerious for 4752 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:56 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:56 2026] Sigdis hit Lord Hydrerious for 33703 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Sigdis delivers a critical blast! (5934)
+[Thu Jan 29 21:54:56 2026] Sigdis hit Lord Hydrerious for 5934 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Sigdis hit Lord Hydrerious for 2580 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Sigdis tries to crush Lord Hydrerious , but misses!
+[Thu Jan 29 21:54:56 2026] Sigdis hit Lord Hydrerious for 20512 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious executes a FLURRY of attacks on Sigdis!
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:56 2026] You deliver a critical blast! (7520)
+[Thu Jan 29 21:54:56 2026] Emberval hit Lord Hydrerious for 7520 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:56 2026] Emberval hit Lord Hydrerious for 3762 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:56 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:56 2026] Emberval scores a critical hit! (4141)
+[Thu Jan 29 21:54:56 2026] You pierce Lord Hydrerious  for 4251 points of damage.
+[Thu Jan 29 21:54:56 2026] Emberval hit Lord Hydrerious for 4884 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:56 2026] You deliver a critical blast! (7124)
+[Thu Jan 29 21:54:56 2026] Emberval hit Lord Hydrerious for 7124 points of non-melee damage.
+[Thu Jan 29 21:54:56 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:56 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:56 2026] Emberval scores a critical hit! (7230)
+[Thu Jan 29 21:54:56 2026] You pierce Lord Hydrerious  for 7340 points of damage.
+[Thu Jan 29 21:54:57 2026] Emberval hit Lord Hydrerious for 4488 points of non-melee damage.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:57 2026] Emberval hit Lord Hydrerious for 1560 points of non-melee damage.
+[Thu Jan 29 21:54:57 2026] Emberval hit Lord Hydrerious for 5874 points of non-melee damage.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:57 2026] You pierce Lord Hydrerious  for 573 points of damage.
+[Thu Jan 29 21:54:57 2026] You pierce Lord Hydrerious  for 2526 points of damage.
+[Thu Jan 29 21:54:57 2026] Emberval scores a critical hit! (7146)
+[Thu Jan 29 21:54:57 2026] You pierce Lord Hydrerious  for 7256 points of damage.
+[Thu Jan 29 21:54:57 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious goes on a RAMPAGE!
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  claws YOU for 2595 points of damage. (Rampage)
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  claws YOU for 3437 points of damage. (Rampage)
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious was hit by non-melee for 137 points of damage.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious was hit by non-melee for 73 points of damage.
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  claws YOU for 2438 points of damage. (Rampage)
+[Thu Jan 29 21:54:57 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:57 2026] Sigdis delivers a critical blast! (63532)
+[Thu Jan 29 21:54:57 2026] Sigdis hit Lord Hydrerious for 63532 points of non-melee damage.
+[Thu Jan 29 21:54:57 2026] Sigdis delivers a critical blast! (6414)
+[Thu Jan 29 21:54:57 2026] Sigdis hit Lord Hydrerious for 6414 points of non-melee damage.
+[Thu Jan 29 21:54:57 2026] Sigdis scores a critical hit! (459)
+[Thu Jan 29 21:54:57 2026] Sigdis crushes Lord Hydrerious  for 553 points of damage.
+[Thu Jan 29 21:54:57 2026] The lightning dies down.
+[Thu Jan 29 21:54:58 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:58 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:58 2026] Sigdis hit Lord Hydrerious for 26086 points of non-melee damage.
+[Thu Jan 29 21:54:58 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:58 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:59 2026] Sigdis hit Lord Hydrerious for 29836 points of non-melee damage.
+[Thu Jan 29 21:54:59 2026] Sigdis hit Lord Hydrerious for 2250 points of non-melee damage.
+[Thu Jan 29 21:54:59 2026] Lord Hydrerious  was pierced by thorns.
+[Thu Jan 29 21:54:59 2026] Sigdis tries to crush Lord Hydrerious , but Lord Hydrerious  ripostes!
+[Thu Jan 29 21:54:59 2026] Emberval hit Lord Hydrerious for 4752 points of non-melee damage.
+[Thu Jan 29 21:54:59 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:59 2026] Emberval hit Lord Hydrerious for 6270 points of non-melee damage.
+[Thu Jan 29 21:54:59 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:59 2026] Emberval hit Lord Hydrerious for 5742 points of non-melee damage.
+[Thu Jan 29 21:54:59 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:54:59 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:59 2026] You pierce Lord Hydrerious  for 880 points of damage.
+[Thu Jan 29 21:54:59 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:54:59 2026] Sigdis delivers a critical blast! (52166)
+[Thu Jan 29 21:54:59 2026] Sigdis hit Lord Hydrerious for 52166 points of non-melee damage.
+[Thu Jan 29 21:55:00 2026] You try to pierce Lord Hydrerious , but miss!
+[Thu Jan 29 21:55:00 2026] Emberval hit Lord Hydrerious for 5280 points of non-melee damage.
+[Thu Jan 29 21:55:00 2026] Lord Hydrerious  quivers as a bolt of energy surges through them.
+[Thu Jan 29 21:55:00 2026] You pierce Lord Hydrerious  for 2583 points of damage.
+[Thu Jan 29 21:55:00 2026] Sigdis hit Lord Hydrerious for 21240 points of non-melee damage.
+[Thu Jan 29 21:55:00 2026] Lord Hydrerious  has been slain by Sigdis!
+[Thu Jan 29 21:55:00 2026] You gain party experience!!
+[Thu Jan 29 21:55:00 2026] You have gained an ability point!  You now have 3246 ability points.
+[Thu Jan 29 21:55:00 2026] Sigdis hit Lord Hydrerious for 17100 points of non-melee damage.
+[Thu Jan 29 21:55:00 2026] Sigdis hit Lord Hydrerious for 17100 points of non-melee damage.
+[Thu Jan 29 21:55:00 2026] Sigdis hit Lord Hydrerious for 5073 points of non-melee damage.
+[Thu Jan 29 21:55:00 2026] Sigdis hit Lord Hydrerious for 5073 points of non-melee damage.
+[Thu Jan 29 21:55:00 2026] Sigdis hit Lord Hydrerious for 3510 points of non-melee damage.
+[Thu Jan 29 21:55:00 2026] Sigdis hit Lord Hydrerious for 3510 points of non-melee damage.
+[Thu Jan 29 21:55:01 2026] You receive 168 platinum, 4 gold, and 4 copper as your split.
+[Thu Jan 29 21:55:04 2026] You say, '#zone nexus -24 -4 -30'
+[Thu Jan 29 21:55:05 2026] LOADING, PLEASE WAIT...
+[Thu Jan 29 21:55:07 2026] You have entered Nexus.
+[Thu Jan 29 21:55:18 2026] Sigdis healed you for 5442 hit points by Elixir of Atonement Rk. III.
+[Thu Jan 29 21:55:19 2026] Targeted (NPC): Buff Master
+[Thu Jan 29 21:55:19 2026] Right click on the NPC to consider him.
+[Thu Jan 29 21:55:20 2026] The spirit of wolf leaves you.
+[Thu Jan 29 21:55:20 2026] The tranquil breeze fades.
+[Thu Jan 29 21:55:20 2026] The ancestral vigor fades.
+[Thu Jan 29 21:55:20 2026] Your speed fades.
+[Thu Jan 29 21:55:20 2026] The viridiflora fall away.
+[Thu Jan 29 21:55:20 2026] Your healing slows.
+[Thu Jan 29 21:55:20 2026] The brawny bulwark fades.
+[Thu Jan 29 21:55:20 2026] You have healed Sigdis for 680 points.
+[Thu Jan 29 21:55:20 2026] You lose your focus.
+[Thu Jan 29 21:55:22 2026] You say, '#zone nexus -24 -4 -30'

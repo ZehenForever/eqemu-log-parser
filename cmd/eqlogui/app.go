@@ -422,6 +422,10 @@ func (a *App) maybeEnqueueHubDamage(ev model.Event, localPlayer string) {
 	if actor == "" {
 		return
 	}
+	if !isPCLikeActorName(actor) {
+		a.hub.NoteDroppedNonPcActor(actor)
+		return
+	}
 
 	kind := ""
 	switch ev.Kind {
@@ -442,6 +446,30 @@ func (a *App) maybeEnqueueHubDamage(ev model.Event, localPlayer string) {
 		Amount:   ev.Amount,
 		Crit:     ev.Crit,
 	})
+}
+
+func isPCLikeActorName(s string) bool {
+	s = strings.TrimSpace(s)
+	if len(s) < 3 || len(s) > 20 {
+		return false
+	}
+	for _, r := range s {
+		if r == ' ' || r == '\t' || r == '\n' || r == '\r' {
+			return false
+		}
+	}
+	r0 := s[0]
+	if r0 < 'A' || r0 > 'Z' {
+		return false
+	}
+	for i := 0; i < len(s); i++ {
+		c := s[i]
+		if (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || c == '\'' || c == '-' {
+			continue
+		}
+		return false
+	}
+	return true
 }
 
 func (a *App) GetSnapshot() SnapshotUI {

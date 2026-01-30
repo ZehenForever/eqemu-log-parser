@@ -30,13 +30,13 @@ endif
 
 help:
 	@echo "Targets:"
-	@echo "  build                    Build eqlog, eqloghub, eqlogui for host platform (named with GOOS/GOARCH)"
-	@echo "  build-all                Cross-build eqlog + eqloghub for win/linux/mac (amd64+arm64)"
+	@echo "  build                     Build eqlog, eqloghub, eqlogui for host platform (named with GOOS/GOARCH)"
+	@echo "  build-all                 Cross-build eqlog + eqloghub for win/linux/mac (amd64+arm64)"
 	@echo "  build-linux-amd64         Build eqlog + eqloghub for linux/amd64 (DigitalOcean)"
 	@echo "  build-eqlogui-wails       Build eqlogui via wails for host platform (requires wails + toolchain)"
 	@echo "  build-eqlogui-wails-all   Attempt wails builds for windows/linux/darwin amd64 (toolchains required)"
-	@echo "  clean                    Remove dist/"
-	@echo "  test                     Run go tests (root + eqlogui module dir)"
+	@echo "  clean                     Remove dist/"
+	@echo "  test                      Run go tests (root + eqlogui module dir)"
 
 clean:
 	rm -rf "$(DIST)"

@@ -2,6 +2,67 @@ package main
 
 import "testing"
 
+func TestIsPCLikeActorName(t *testing.T) {
+	if isPCLikeActorName("Sigdis") != true {
+		t.Fatalf("Sigdis should be pc-like")
+	}
+	if isPCLikeActorName("Emberval") != true {
+		t.Fatalf("Emberval should be pc-like")
+	}
+	if isPCLikeActorName("Lord Hydrerious") != false {
+		t.Fatalf("multi-word NPC should not be pc-like")
+	}
+	if isPCLikeActorName("Lord Hydrerious was") != false {
+		t.Fatalf("phrase fragment should not be pc-like")
+	}
+	if isPCLikeActorName("a training dummy") != false {
+		t.Fatalf("lowercase multi-word NPC should not be pc-like")
+	}
+}
+
+func TestRoom_IgnoresNonPcActorEvents(t *testing.T) {
+	r := newRoom("r1", "t1")
+	serverRecv := int64(20_000)
+
+	r.IngestBatch(serverRecv, PublishBatchRequest{
+		PublisherID:  "p1",
+		SentAtUnixMs: serverRecv,
+		Events: []DamageEvent{
+			{TsUnixMs: 10_100, Actor: "Lord Hydrerious", Target: "Sigdis", Kind: "melee", Verb: "hits", Amount: 50},
+			{TsUnixMs: 10_200, Actor: "Lord Hydrerious was", Target: "Sigdis", Kind: "melee", Verb: "hits", Amount: 60},
+			{TsUnixMs: 10_300, Actor: "Sigdis", Target: "a rat", Kind: "melee", Verb: "slashes", Amount: 10},
+		},
+	})
+
+	if len(r.order) != 1 {
+		t.Fatalf("bucket count=%d want=1", len(r.order))
+	}
+	bs := r.order[0]
+	agg := r.buckets[bs]
+	if agg == nil {
+		t.Fatalf("missing bucket")
+	}
+	if agg.totalDamage != 10 {
+		t.Fatalf("totalDamage=%d want=10", agg.totalDamage)
+	}
+	if agg.damageByActor["Sigdis"] != 10 {
+		t.Fatalf("Sigdis=%d want=10", agg.damageByActor["Sigdis"])
+	}
+	if _, ok := agg.damageByActor["Lord Hydrerious"]; ok {
+		t.Fatalf("unexpected NPC actor in bucket")
+	}
+	if _, ok := agg.damageByActor["Lord Hydrerious was"]; ok {
+		t.Fatalf("unexpected NPC fragment actor in bucket")
+	}
+
+	snap := r.Snapshot()
+	for _, a := range snap.Actors {
+		if a == "Lord Hydrerious" || a == "Lord Hydrerious was" {
+			t.Fatalf("unexpected NPC actor in snapshot actors list: %q", a)
+		}
+	}
+}
+
 func TestRoom_DedupeAcrossPublishers(t *testing.T) {
 	r := newRoom("r1", "t1")
 	serverRecv := int64(20_000)

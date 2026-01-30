@@ -7,6 +7,7 @@ import (
 	"errors"
 	"sort"
 	"strconv"
+	"strings"
 	"sync"
 	"time"
 
@@ -79,6 +80,32 @@ type Room struct {
 	maxBuckets int
 	buckets    map[int64]*bucketAgg
 	order      []int64
+
+	droppedNonPcActorEvents int64
+}
+
+func isPCLikeActorName(s string) bool {
+	s = strings.TrimSpace(s)
+	if len(s) < 3 || len(s) > 20 {
+		return false
+	}
+	for _, r := range s {
+		if r == ' ' || r == '\t' || r == '\n' || r == '\r' {
+			return false
+		}
+	}
+	r0 := s[0]
+	if r0 < 'A' || r0 > 'Z' {
+		return false
+	}
+	for i := 0; i < len(s); i++ {
+		c := s[i]
+		if (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || c == '\'' || c == '-' {
+			continue
+		}
+		return false
+	}
+	return true
 }
 
 func newRoom(id string, token string) *Room {
@@ -236,6 +263,10 @@ func (r *Room) ingestBatch(serverRecvUnixMs int64, req PublishBatchRequest) []*B
 
 	updatesByBucket := make(map[int64]*BucketUpdateMessage)
 	for _, ev := range req.Events {
+		if !isPCLikeActorName(ev.Actor) {
+			r.droppedNonPcActorEvents++
+			continue
+		}
 		// Adjust timestamp by smoothed offset.
 		tsAdj := int64(float64(ev.TsUnixMs) + offsetMs)
 		tRoundedMs := (tsAdj / 1000) * 1000
@@ -321,6 +352,9 @@ func (r *Room) snapshotLocked() BucketSnapshotMessage {
 
 	actors := make([]string, 0, len(actorsTotals))
 	for a := range actorsTotals {
+		if !isPCLikeActorName(a) {
+			continue
+		}
 		actors = append(actors, a)
 	}
 	sort.Slice(actors, func(i, j int) bool {

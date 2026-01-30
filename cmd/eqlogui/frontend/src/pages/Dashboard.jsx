@@ -12,10 +12,27 @@ import Modal from '../components/Modal'
 function formatDuration(seconds) {
   if (typeof seconds !== 'number' || !Number.isFinite(seconds) || seconds < 0) return ''
   const s = Math.floor(seconds)
-  if (s < 60) return `${s}s`
   const m = Math.floor(s / 60)
   const rem = s % 60
+  if (m <= 0) return `${rem}s`
   return `${m}m ${rem}s`
+}
+
+function isPCLikeActorName(name) {
+  const s = String(name || '').trim()
+  if (s.length < 3 || s.length > 20) return false
+  if (s.includes(' ') || s.includes('\t') || s.includes('\n') || s.includes('\r')) return false
+  const c0 = s.charCodeAt(0)
+  if (c0 < 65 || c0 > 90) return false
+  for (let i = 0; i < s.length; i++) {
+    const c = s.charCodeAt(i)
+    const ch = s[i]
+    const isUpper = c >= 65 && c <= 90
+    const isLower = c >= 97 && c <= 122
+    if (isUpper || isLower || ch === "'" || ch === '-') continue
+    return false
+  }
+  return true
 }
 
 function StatusClock() {
@@ -417,7 +434,7 @@ export default function Dashboard() {
 			setRoomPlayersSeries(series)
 		}
 
-        const nextActors = Array.isArray(series?.actors) ? series.actors : []
+        const nextActors = (Array.isArray(series?.actors) ? series.actors : []).filter(isPCLikeActorName)
         setRoomPlayersSelectedActors((prev) => {
           if (roomPlayersMode === 'me') {
             return new Set(nextActors)
@@ -1262,7 +1279,7 @@ export default function Dashboard() {
 				<div className="rounded-md border border-slate-800 bg-slate-950/30 p-3">
 					<div className="text-sm font-medium text-slate-200">Actors</div>
 					<div className="mt-2 flex flex-wrap gap-3">
-						{roomPlayersSeries.actors.map((a) => {
+						{roomPlayersSeries.actors.filter(isPCLikeActorName).map((a) => {
 							const checked = roomPlayersSelectedActors.has(a)
 							return (
 								<label key={a} className="flex items-center gap-2 text-sm text-slate-200">
@@ -1315,9 +1332,10 @@ export default function Dashboard() {
 							if (total > 0 && rowWidthPct > 0 && rowWidthPct < 2) rowWidthPct = 2
 
 							const damageByActor = b.damageByActor || {}
+							const roomActors = roomPlayersSeries.actors.filter(isPCLikeActorName)
 							const actors = roomPlayersMode === 'me'
-								? roomPlayersSeries.actors
-								: roomPlayersSeries.actors.filter((a) => roomPlayersSelectedActors.has(a))
+								? roomActors
+								: roomActors.filter((a) => roomPlayersSelectedActors.has(a))
 							const segments = []
 							for (const a of actors) {
 								const dmg = Number(damageByActor[a] || 0)

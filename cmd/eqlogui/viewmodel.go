@@ -98,9 +98,11 @@ type RoomListUI struct {
 }
 
 type PublishingStatusUI struct {
-	Enabled    bool   `json:"enabled"`
-	LastError  string `json:"lastError"`
-	SentEvents int64  `json:"sentEvents"`
+	Enabled                   bool   `json:"enabled"`
+	LastError                 string `json:"lastError"`
+	SentEvents                int64  `json:"sentEvents"`
+	DroppedNonPcActorEvents   int64  `json:"droppedNonPcActorEvents"`
+	UniquePcActorsSeenLast60s int64  `json:"uniquePcActorsSeenLast60s"`
 }
 
 type SubscribeStatusUI struct {
