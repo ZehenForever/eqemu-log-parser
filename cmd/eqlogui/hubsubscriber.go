@@ -127,9 +127,10 @@ func (s *wsHubSubscriber) Start() error {
 	prevDone := s.doneCh
 	prevConn := s.conn
 	ctx, cancel := context.WithCancel(context.Background())
+	doneCh := make(chan struct{})
 	s.ctx = ctx
 	s.cancel = cancel
-	s.doneCh = make(chan struct{})
+	s.doneCh = doneCh
 	s.conn = nil
 	s.reconnectAt = time.Time{}
 	s.st.enabled = true
@@ -150,7 +151,7 @@ func (s *wsHubSubscriber) Start() error {
 		}
 	}
 
-	go s.manageLoop(gen)
+	go s.manageLoop(gen, ctx, doneCh)
 	return nil
 }
 
@@ -163,12 +164,17 @@ func (s *wsHubSubscriber) Stop() error {
 	prevCancel := s.cancel
 	doneCh := s.doneCh
 	c := s.conn
-	s.cancel = nil
-	s.doneCh = nil
-	s.conn = nil
-	s.reconnectAt = time.Time{}
+	// Mark stopped immediately so callers and the loop see it.
 	s.st.enabled = false
 	s.st.connected = false
+	s.reconnectAt = time.Time{}
+
+	// Invalidate any in-flight loop quickly.
+	s.gen++
+
+	s.cancel = nil
+	s.conn = nil
+	s.reconnectAt = time.Time{}
 	s.mu.Unlock()
 
 	if prevCancel != nil {
@@ -180,18 +186,19 @@ func (s *wsHubSubscriber) Stop() error {
 	if doneCh != nil {
 		<-doneCh
 	}
+
+	s.mu.Lock()
+	if s.doneCh == doneCh {
+		s.doneCh = nil
+	}
+	s.ctx = nil
+	s.mu.Unlock()
 	return nil
 }
 
-func (s *wsHubSubscriber) manageLoop(gen uint64) {
+func (s *wsHubSubscriber) manageLoop(gen uint64, ctx context.Context, doneCh chan struct{}) {
 	defer func() {
-		s.mu.Lock()
-		if s.gen == gen {
-			if s.doneCh != nil {
-				close(s.doneCh)
-			}
-		}
-		s.mu.Unlock()
+		close(doneCh)
 	}()
 
 	// Deterministic jitter per generation; avoids global rand races.
@@ -206,7 +213,8 @@ func (s *wsHubSubscriber) manageLoop(gen uint64) {
 			s.mu.Unlock()
 			return
 		}
-		ctx := s.ctx
+		// Use the context for this generation, passed in from Start().
+		ctx := ctx
 		cfg := s.cfg
 		enabled := s.st.enabled
 		s.mu.Unlock()

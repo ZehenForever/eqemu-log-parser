@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
+	"log"
 	"net/http"
 	"net/url"
 	"os"
@@ -89,6 +90,11 @@ func (a *App) GetConfigDefaults() ConfigDefaultsUI {
 }
 
 func (a *App) shutdown(ctx context.Context) {
+	a.shutdownAll()
+}
+
+func (a *App) shutdownAll() {
+	log.Printf("shutdown: stopping publish/sub/tail")
 	a.StopPublishing()
 	_ = a.StopSubscribe()
 	_ = a.Stop()

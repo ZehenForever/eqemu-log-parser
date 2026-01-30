@@ -2,6 +2,7 @@ package main
 
 import (
 	"bytes"
+	"context"
 	"crypto/rand"
 	"encoding/hex"
 	"encoding/json"
@@ -57,6 +58,8 @@ type hubPublisher struct {
 
 	stopCh chan struct{}
 	doneCh chan struct{}
+	ctx    context.Context
+	cancel context.CancelFunc
 
 	httpClient *http.Client
 
@@ -139,13 +142,18 @@ func (p *hubPublisher) Start() error {
 		p.cfg.HubURL = "http://127.0.0.1:8787"
 	}
 
-	p.stopCh = make(chan struct{})
-	p.doneCh = make(chan struct{})
+	stopCh := make(chan struct{})
+	doneCh := make(chan struct{})
+	ctx, cancel := context.WithCancel(context.Background())
+	p.stopCh = stopCh
+	p.doneCh = doneCh
+	p.ctx = ctx
+	p.cancel = cancel
 	p.st.enabled = true
 	p.st.lastError = ""
 	p.mu.Unlock()
 
-	go p.loop()
+	go p.loop(ctx, stopCh, doneCh)
 	return nil
 }
 
@@ -157,17 +165,30 @@ func (p *hubPublisher) Stop() {
 	}
 	stopCh := p.stopCh
 	doneCh := p.doneCh
+	cancel := p.cancel
 	p.st.enabled = false
-	p.stopCh = nil
-	p.doneCh = nil
 	p.mu.Unlock()
 
+	if cancel != nil {
+		cancel()
+	}
 	if stopCh != nil {
 		close(stopCh)
 	}
 	if doneCh != nil {
 		<-doneCh
 	}
+
+	p.mu.Lock()
+	if p.stopCh == stopCh {
+		p.stopCh = nil
+	}
+	if p.doneCh == doneCh {
+		p.doneCh = nil
+	}
+	p.ctx = nil
+	p.cancel = nil
+	p.mu.Unlock()
 }
 
 func (p *hubPublisher) Status() PublishingStatusUI {
@@ -200,23 +221,21 @@ func (p *hubPublisher) uniqueActorsSeenLocked(window time.Duration) int64 {
 	return unique
 }
 
-func (p *hubPublisher) loop() {
+func (p *hubPublisher) loop(ctx context.Context, stopCh <-chan struct{}, doneCh chan struct{}) {
 	ticker := time.NewTicker(250 * time.Millisecond)
 	defer ticker.Stop()
 	defer func() {
-		p.mu.Lock()
-		if p.doneCh != nil {
-			close(p.doneCh)
-		}
-		p.mu.Unlock()
+		close(doneCh)
 	}()
 
 	for {
 		select {
+		case <-ctx.Done():
+			return
 		case <-ticker.C:
-			p.flushOnce(500)
+			p.flushOnce(ctx, 500)
 			p.maybeLogStats()
-		case <-p.stopCh:
+		case <-stopCh:
 			return
 		}
 	}
@@ -245,7 +264,7 @@ func (p *hubPublisher) maybeLogStats() {
 	log.Printf("hub publisher stats: sentEventsTotal=%d uniqueActorsLast10s=%d", p.st.sentEvents, unique)
 }
 
-func (p *hubPublisher) flushOnce(maxEvents int) {
+func (p *hubPublisher) flushOnce(ctx context.Context, maxEvents int) {
 	cfg, batch := p.drain(maxEvents)
 	if len(batch) == 0 {
 		return
@@ -261,7 +280,10 @@ func (p *hubPublisher) flushOnce(maxEvents int) {
 	}
 
 	u := cfg.HubURL + "/v1/rooms/" + url.PathEscape(cfg.RoomID) + "/events"
-	req, err := http.NewRequest(http.MethodPost, u, bytes.NewReader(b))
+	if ctx == nil {
+		ctx = context.Background()
+	}
+	req, err := http.NewRequestWithContext(ctx, http.MethodPost, u, bytes.NewReader(b))
 	if err != nil {
 		p.setError(err.Error())
 		return
