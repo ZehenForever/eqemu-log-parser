@@ -171,11 +171,7 @@ func (s *EncounterSegmenter) isLikelyPCActor(name string) bool {
 	if s.identityDirty || s.identityScores == nil {
 		s.refreshIdentityIfNeeded(true)
 	}
-	sc, ok := s.identityScores[name]
-	if !ok {
-		return false
-	}
-	return sc.Class == IdentityLikelyPC
+	return IsPCActor(name, s.identityScores)
 }
 
 func (s *EncounterSegmenter) BuildPlayersSeries(now time.Time, bucketSec int64, maxBuckets int, mode string) PlayersSeries {

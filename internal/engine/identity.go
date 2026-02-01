@@ -45,8 +45,21 @@ type identityAccum struct {
 	actorCastStart    bool
 }
 
+func IsPCActor(name string, ids map[string]IdentityScore) bool {
+	if name == "" || ids == nil {
+		return false
+	}
+	sc, ok := ids[name]
+	if !ok {
+		return false
+	}
+	return sc.Class == IdentityLikelyPC
+}
+
 func ClassifyNames(events []model.Event) map[string]IdentityScore {
 	acc := make(map[string]*identityAccum)
+	targetHitCount := make(map[string]int)
+	targetAttackers := make(map[string]map[string]struct{})
 	ensure := func(name string) *identityAccum {
 		if name == "" {
 			return nil
@@ -79,6 +92,15 @@ func ClassifyNames(events []model.Event) map[string]IdentityScore {
 			}
 			if a := ensure(ev.Target); a != nil {
 				a.seenTarget = true
+				targetHitCount[ev.Target]++
+				if ev.Actor != "" {
+					m := targetAttackers[ev.Target]
+					if m == nil {
+						m = make(map[string]struct{})
+						targetAttackers[ev.Target] = m
+					}
+					m[ev.Actor] = struct{}{}
+				}
 			}
 		}
 	}
@@ -112,6 +134,13 @@ func ClassifyNames(events []model.Event) map[string]IdentityScore {
 		if a.actorCastStart {
 			sc.Score += 1
 			sc.Reasons = append(sc.Reasons, "actor_caststart")
+		}
+
+		if targetHitCount[name] >= 2 {
+			if len(targetAttackers[name]) >= 2 {
+				sc.Score -= 6
+				sc.Reasons = append(sc.Reasons, "target_distinct_attackers>=2")
+			}
 		}
 
 		article := false
